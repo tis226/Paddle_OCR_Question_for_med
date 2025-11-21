@@ -13,7 +13,7 @@ import argparse
 import csv
 import json
 from pathlib import Path
-from typing import Dict, Iterable, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Tuple
 
 ChoiceKey = Tuple[str, int]
 
@@ -190,21 +190,39 @@ def main() -> None:
 
     print(f"Loaded answer key from {args.answers} ({total_questions} questions)\n")
 
-    found_file = False
+    grouped: Dict[Path, List[Tuple[Path, Dict[ChoiceKey, str]]]] = {}
     for json_path in iter_prediction_files(args.predictions_dir):
         predictions = load_predictions(json_path)
         if predictions is None:
             continue
-        found_file = True
-        correct, incorrect, total = evaluate(predictions, answer_key)
-        accuracy = correct / total * 100
-        print(f"{json_path}:")
-        print(f"  Correct:   {correct}")
-        print(f"  Incorrect: {incorrect}")
-        print(f"  Accuracy:  {accuracy:.2f}%\n")
+        grouped.setdefault(json_path.parent, []).append((json_path, predictions))
 
-    if not found_file:
+    if not grouped:
         print("No prediction files with an 'answers' payload were found.")
+        return
+
+    for folder in sorted(grouped):
+        print(f"Folder: {folder}")
+        merged_predictions: Dict[ChoiceKey, str] = {}
+
+        for json_path, predictions in grouped[folder]:
+            correct, incorrect, total = evaluate(predictions, answer_key)
+            accuracy = correct / total * 100
+            print(f"  {json_path.name}:")
+            print(f"    Correct:   {correct}")
+            print(f"    Incorrect: {incorrect}")
+            print(f"    Accuracy:  {accuracy:.2f}%")
+
+            # Merge predictions for an overall folder accuracy. Later files take
+            # precedence if duplicate question entries exist.
+            merged_predictions.update(predictions)
+
+        folder_correct, folder_incorrect, total = evaluate(merged_predictions, answer_key)
+        folder_accuracy = folder_correct / total * 100
+        print("  -- Folder total --")
+        print(f"  Correct:   {folder_correct}")
+        print(f"  Incorrect: {folder_incorrect}")
+        print(f"  Accuracy:  {folder_accuracy:.2f}%\n")
 
 
 if __name__ == "__main__":
