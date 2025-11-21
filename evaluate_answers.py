@@ -171,14 +171,29 @@ def load_predictions(path: Path) -> Optional[Dict[ChoiceKey, str]]:
     return predictions if predictions else None
 
 
-def evaluate(predictions: Dict[ChoiceKey, str], answer_key: Dict[ChoiceKey, str]):
+def evaluate(
+    predictions: Dict[ChoiceKey, str],
+    answer_key: Dict[ChoiceKey, str],
+) -> Tuple[int, int, int, List[Tuple[ChoiceKey, str, str]]]:
+    """Compare predictions to the answer key and list incorrect responses."""
+
     relevant_keys = [key for key in predictions.keys() if key in answer_key]
     total = len(relevant_keys)
     if total == 0:
-        return 0, 0, 0
-    correct = sum(1 for key in relevant_keys if predictions[key] == answer_key[key])
+        return 0, 0, 0, []
+
+    incorrect_items: List[Tuple[ChoiceKey, str, str]] = []
+    correct = 0
+    for key in relevant_keys:
+        predicted = predictions[key]
+        correct_choice = answer_key[key]
+        if predicted == correct_choice:
+            correct += 1
+        else:
+            incorrect_items.append((key, predicted, correct_choice))
+
     incorrect = total - correct
-    return correct, incorrect, total
+    return correct, incorrect, total, incorrect_items
 
 
 def iter_prediction_files(directory: Path) -> Iterable[Path]:
@@ -216,7 +231,7 @@ def main() -> None:
         merged_predictions: Dict[ChoiceKey, str] = {}
 
         for json_path, predictions in grouped[folder]:
-            correct, incorrect, total = evaluate(predictions, answer_key)
+            correct, incorrect, total, incorrect_items = evaluate(predictions, answer_key)
             if total == 0:
                 print(f"  {json_path.name}: no matching questions in answer key; skipped")
                 continue
@@ -225,12 +240,20 @@ def main() -> None:
             print(f"    Correct:   {correct}")
             print(f"    Incorrect: {incorrect}")
             print(f"    Accuracy:  {accuracy:.2f}%")
+            if incorrect_items:
+                print("    Incorrect details:")
+                for (subject, qnum), predicted, expected in sorted(incorrect_items):
+                    print(
+                        f"      - {subject} Q{qnum}: predicted {predicted}, expected {expected}"
+                    )
 
             # Merge predictions for an overall folder accuracy. Later files take
             # precedence if duplicate question entries exist.
             merged_predictions.update(predictions)
 
-        folder_correct, folder_incorrect, total = evaluate(merged_predictions, answer_key)
+        folder_correct, folder_incorrect, total, folder_incorrect_items = evaluate(
+            merged_predictions, answer_key
+        )
         if total == 0:
             print("  -- Folder total --")
             print("  No matching subjects/questions from the whitelist were found.\n")
@@ -239,7 +262,14 @@ def main() -> None:
         print("  -- Folder total --")
         print(f"  Correct:   {folder_correct}")
         print(f"  Incorrect: {folder_incorrect}")
-        print(f"  Accuracy:  {folder_accuracy:.2f}%\n")
+        print(f"  Accuracy:  {folder_accuracy:.2f}%")
+        if folder_incorrect_items:
+            print("  Folder incorrect details:")
+            for (subject, qnum), predicted, expected in sorted(folder_incorrect_items):
+                print(
+                    f"    - {subject} Q{qnum}: predicted {predicted}, expected {expected}"
+                )
+        print()
 
 
 if __name__ == "__main__":
