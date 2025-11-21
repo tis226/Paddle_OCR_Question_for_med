@@ -25,6 +25,14 @@ _CIRCLED_TO_DIGIT = {
     "⑤": "5",
 }
 
+SUBJECT_WHITELIST = {
+    "보건의약관계법규",
+    "의학총론",
+    "의학각론1",
+    "의학각론2",
+    "의학각론3",
+}
+
 
 def _normalize_choice(raw: Optional[object]) -> Optional[str]:
     """Convert various answer notations to a string digit 1-5.
@@ -137,6 +145,8 @@ def load_predictions(path: Path) -> Optional[Dict[ChoiceKey, str]]:
         if not isinstance(record, dict):
             continue
         subject = (record.get("subject") or "").strip()
+        if subject not in SUBJECT_WHITELIST:
+            continue
         answers = record.get("answers")
         if not subject or not isinstance(answers, Iterable):
             continue
@@ -162,11 +172,11 @@ def load_predictions(path: Path) -> Optional[Dict[ChoiceKey, str]]:
 
 
 def evaluate(predictions: Dict[ChoiceKey, str], answer_key: Dict[ChoiceKey, str]):
-    correct = 0
-    for key, correct_choice in answer_key.items():
-        if predictions.get(key) == correct_choice:
-            correct += 1
-    total = len(answer_key)
+    relevant_keys = [key for key in predictions.keys() if key in answer_key]
+    total = len(relevant_keys)
+    if total == 0:
+        return 0, 0, 0
+    correct = sum(1 for key in relevant_keys if predictions[key] == answer_key[key])
     incorrect = total - correct
     return correct, incorrect, total
 
@@ -207,6 +217,9 @@ def main() -> None:
 
         for json_path, predictions in grouped[folder]:
             correct, incorrect, total = evaluate(predictions, answer_key)
+            if total == 0:
+                print(f"  {json_path.name}: no matching questions in answer key; skipped")
+                continue
             accuracy = correct / total * 100
             print(f"  {json_path.name}:")
             print(f"    Correct:   {correct}")
@@ -218,6 +231,10 @@ def main() -> None:
             merged_predictions.update(predictions)
 
         folder_correct, folder_incorrect, total = evaluate(merged_predictions, answer_key)
+        if total == 0:
+            print("  -- Folder total --")
+            print("  No matching subjects/questions from the whitelist were found.\n")
+            continue
         folder_accuracy = folder_correct / total * 100
         print("  -- Folder total --")
         print(f"  Correct:   {folder_correct}")
