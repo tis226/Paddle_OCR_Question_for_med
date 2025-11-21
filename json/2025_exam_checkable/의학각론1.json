@@ -1,0 +1,258 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 2,
+          "chosen_index": "⑤",
+          "chosen_text": "항혈소판제 경구투여",
+          "reasoning": ""
+        },
+        {
+          "question_number": 3,
+          "chosen_index": "⑤",
+          "chosen_text": "데스모프레신",
+          "reasoning": ""
+        },
+        {
+          "question_number": 6,
+          "chosen_index": "③",
+          "chosen_text": "확장심근병증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 9,
+          "chosen_index": "④",
+          "chosen_text": "주요우울장애",
+          "reasoning": ""
+        },
+        {
+          "question_number": 10,
+          "chosen_index": "④",
+          "chosen_text": "나이세리아임균(Neisseria gonorrhoeae)",
+          "reasoning": ""
+        },
+        {
+          "question_number": 11,
+          "chosen_index": "④",
+          "chosen_text": "원뿔절제",
+          "reasoning": ""
+        },
+        {
+          "question_number": 12,
+          "chosen_index": "⑤",
+          "chosen_text": "편집성성격장애",
+          "reasoning": ""
+        },
+        {
+          "question_number": 17,
+          "chosen_index": "⑤",
+          "chosen_text": "진단복강경술",
+          "reasoning": ""
+        },
+        {
+          "question_number": 24,
+          "chosen_index": "⑤",
+          "chosen_text": "복부 컴퓨터단층촬영",
+          "reasoning": ""
+        },
+        {
+          "question_number": 25,
+          "chosen_index": "⑤",
+          "chosen_text": "하루 6g 미만 소금 섭취제한",
+          "reasoning": ""
+        },
+        {
+          "question_number": 26,
+          "chosen_index": "④",
+          "chosen_text": "췌장꼬리절제",
+          "reasoning": ""
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "⑤",
+          "chosen_text": "0.9% 식염수 빠르게 정맥주사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 30,
+          "chosen_index": "②",
+          "chosen_text": "안압측정",
+          "reasoning": ""
+        },
+        {
+          "question_number": 32,
+          "chosen_index": "②",
+          "chosen_text": "클로니딘",
+          "reasoning": ""
+        },
+        {
+          "question_number": 33,
+          "chosen_index": "④",
+          "chosen_text": "전기경련요법",
+          "reasoning": ""
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "④",
+          "chosen_text": "라모트리진",
+          "reasoning": ""
+        },
+        {
+          "question_number": 35,
+          "chosen_index": "①",
+          "chosen_text": "순환성장애",
+          "reasoning": ""
+        },
+        {
+          "question_number": 36,
+          "chosen_index": "⑤",
+          "chosen_text": "플루옥세틴",
+          "reasoning": ""
+        },
+        {
+          "question_number": 40,
+          "chosen_index": "①",
+          "chosen_text": "난소꼬임",
+          "reasoning": ""
+        },
+        {
+          "question_number": 41,
+          "chosen_index": "③",
+          "chosen_text": "메토트렉세이트",
+          "reasoning": ""
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "④",
+          "chosen_text": "리스페리돈",
+          "reasoning": ""
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "④",
+          "chosen_text": "인지행동치료",
+          "reasoning": ""
+        },
+        {
+          "question_number": 48,
+          "chosen_index": "③",
+          "chosen_text": "셀레콕시브",
+          "reasoning": ""
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "④",
+          "chosen_text": "척추동맥",
+          "reasoning": ""
+        },
+        {
+          "question_number": 51,
+          "chosen_index": "①",
+          "chosen_text": "아목시실린-클라볼라네이트",
+          "reasoning": ""
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "③",
+          "chosen_text": "쌍둥이 수혈증후군",
+          "reasoning": ""
+        },
+        {
+          "question_number": 56,
+          "chosen_index": "⑤",
+          "chosen_text": "환경온도 낮추기",
+          "reasoning": ""
+        },
+        {
+          "question_number": 57,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": ""
+        },
+        {
+          "question_number": 59,
+          "chosen_index": "①",
+          "chosen_text": "인슐린",
+          "reasoning": ""
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "①",
+          "chosen_text": "전해질 검사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 66,
+          "chosen_index": "⑤",
+          "chosen_text": "항바이러스제경구투여",
+          "reasoning": ""
+        },
+        {
+          "question_number": 67,
+          "chosen_index": "④",
+          "chosen_text": "고압산소요법",
+          "reasoning": ""
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "⑤",
+          "chosen_text": "일과성전체기억상실",
+          "reasoning": ""
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "③",
+          "chosen_text": "반응관절염",
+          "reasoning": ""
+        },
+        {
+          "question_number": 74,
+          "chosen_index": "⑤",
+          "chosen_text": "다이펜하이드라민 경구투여",
+          "reasoning": ""
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "④",
+          "chosen_text": "24시간 소변 단백질",
+          "reasoning": ""
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "②",
+          "chosen_text": "테스토스테론",
+          "reasoning": ""
+        },
+        {
+          "question_number": 78,
+          "chosen_index": "②",
+          "chosen_text": "젖당불내성",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

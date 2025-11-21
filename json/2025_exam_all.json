@@ -28,6 +28,10 @@
           "text": "중증열성혈소판감소증후군(SFTS)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "보톨리농독소증"
     }
   },
   {
@@ -59,6 +63,10 @@
           "text": "이송한 권역응급의료센터의 장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "시·도지사"
     }
   },
   {
@@ -90,6 +98,10 @@
           "text": "면허자격정지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "면허취소"
     }
   },
   {
@@ -121,6 +133,10 @@
           "text": "의료기관 개설허가 취소"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "과태료"
     }
   },
   {
@@ -152,6 +168,10 @@
           "text": "국민건강보험공단 이사장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "시장"
     }
   },
   {
@@ -183,6 +203,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "5년"
     }
   },
   {
@@ -214,6 +238,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "10년"
     }
   },
   {
@@ -245,6 +273,10 @@
           "text": "5명"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "1명"
     }
   },
   {
@@ -276,6 +308,10 @@
           "text": "2주일"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "즉시"
     }
   },
   {
@@ -307,6 +343,10 @@
           "text": "의료기관 소재지의 보건소장을 거쳐 'A' 특별시장에게 신고"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "질병관리청장에게 신고"
     }
   },
   {
@@ -338,6 +378,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "10년"
     }
   },
   {
@@ -369,6 +413,10 @@
           "text": "건강보험분쟁조정위원회"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "건강보험심사평가원"
     }
   },
   {
@@ -400,6 +448,10 @@
           "text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
     }
   },
   {
@@ -431,6 +483,10 @@
           "text": "공공보건의료지원단"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "보건의료원"
     }
   },
   {
@@ -462,6 +518,10 @@
           "text": "21일"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "10일"
     }
   },
   {
@@ -493,6 +553,10 @@
           "text": "관할 보건소장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "식품의약품안전처장"
     }
   },
   {
@@ -524,6 +588,10 @@
           "text": "'갑'을 제외한 3명의 의사 중 1명을 마약류관리자로 둠"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "'A' 병원에 종사하는 약사를 마약류관리자로 둠"
     }
   },
   {
@@ -555,6 +623,10 @@
           "text": "환자의 진료기록 관련 사본을 교부하지 않음"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "다른 기관에 보고 없이 사본을 교부함"
     }
   },
   {
@@ -586,6 +658,10 @@
           "text": "정신건강의학과"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "마취통증의학과"
     }
   },
   {
@@ -617,6 +693,10 @@
           "text": "면허자격정지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "면허자격정지"
     }
   },
   {
@@ -648,6 +728,10 @@
           "text": "항혈소판제 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "항혈소판제 경구투여"
     }
   },
   {
@@ -679,6 +763,10 @@
           "text": "데스모프레신"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "데스모프레신"
     }
   },
   {
@@ -710,6 +798,10 @@
           "text": "선천폐동맥판무형성"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "확장심근병증"
     }
   },
   {
@@ -741,6 +833,10 @@
           "text": "단기정신병장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "주요우울장애"
     }
   },
   {
@@ -772,6 +868,10 @@
           "text": "클라미디아트라코마티스(Chlamydia trachomatis)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "나이세리아임균(Neisseria gonorrhoeae)"
     }
   },
   {
@@ -803,6 +903,10 @@
           "text": "자궁절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "원뿔절제"
     }
   },
   {
@@ -834,6 +938,10 @@
           "text": "편집성성격장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "편집성성격장애"
     }
   },
   {
@@ -865,6 +973,10 @@
           "text": "진단복강경술"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "진단복강경술"
     }
   },
   {
@@ -896,6 +1008,10 @@
           "text": "복부 컴퓨터단층촬영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "복부 컴퓨터단층촬영"
     }
   },
   {
@@ -927,6 +1043,10 @@
           "text": "하루 6g 미만 소금 섭취제한"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "하루 6g 미만 소금 섭취제한"
     }
   },
   {
@@ -958,6 +1078,10 @@
           "text": "전체췌장절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "췌장꼬리절제"
     }
   },
   {
@@ -989,6 +1113,10 @@
           "text": "0.9% 식염수 빠르게 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "0.9% 식염수 빠르게 정맥주사"
     }
   },
   {
@@ -1020,6 +1148,10 @@
           "text": "형광안저혈관조영술"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "안압측정"
     }
   },
   {
@@ -1051,6 +1183,10 @@
           "text": "에스시탈로프람"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "클로니딘"
     }
   },
   {
@@ -1082,6 +1218,10 @@
           "text": "변증법적행동치료"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "전기경련요법"
     }
   },
   {
@@ -1113,6 +1253,10 @@
           "text": "아토목세틴"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "라모트리진"
     }
   },
   {
@@ -1144,6 +1288,10 @@
           "text": "탈억제성사회적유대감장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "순환성장애"
     }
   },
   {
@@ -1175,6 +1323,10 @@
           "text": "플루옥세틴"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "플루옥세틴"
     }
   },
   {
@@ -1206,6 +1358,10 @@
           "text": "골반울혈증후군"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "난소꼬임"
     }
   },
   {
@@ -1237,6 +1393,10 @@
           "text": "울리프리스탈아세테이트"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "메토트렉세이트"
     }
   },
   {
@@ -1268,6 +1428,10 @@
           "text": "플루옥세틴"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "리스페리돈"
     }
   },
   {
@@ -1299,6 +1463,10 @@
           "text": "안구운동탈민감재처리"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "인지행동치료"
     }
   },
   {
@@ -1330,6 +1498,10 @@
           "text": "케토프로펜"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "셀레콕시브"
     }
   },
   {
@@ -1361,6 +1533,10 @@
           "text": "후대뇌동맥"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "척추동맥"
     }
   },
   {
@@ -1392,6 +1568,10 @@
           "text": "광견병백신+사람공수병면역글로블린"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "아목시실린-클라볼라네이트"
     }
   },
   {
@@ -1423,6 +1603,10 @@
           "text": "쌍둥이 빈혈-다혈증연쇄"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "쌍둥이 수혈증후군"
     }
   },
   {
@@ -1454,6 +1638,10 @@
           "text": "환경온도 낮추기"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "환경온도 낮추기"
     }
   },
   {
@@ -1485,6 +1673,10 @@
           "text": "아연 아세테이트"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -1516,6 +1708,10 @@
           "text": "리라글루타이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "인슐린"
     }
   },
   {
@@ -1547,6 +1743,10 @@
           "text": "항정신병제 중단"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "전해질 검사"
     }
   },
   {
@@ -1578,6 +1778,10 @@
           "text": "항바이러스제경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "항바이러스제경구투여"
     }
   },
   {
@@ -1609,6 +1813,10 @@
           "text": "고유량 100 % 산소 공급"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "고압산소요법"
     }
   },
   {
@@ -1640,6 +1848,10 @@
           "text": "일과성전체기억상실"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "일과성전체기억상실"
     }
   },
   {
@@ -1671,6 +1883,10 @@
           "text": "류마티스관절염"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "반응관절염"
     }
   },
   {
@@ -1702,6 +1918,10 @@
           "text": "다이펜하이드라민 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "다이펜하이드라민 경구투여"
     }
   },
   {
@@ -1733,6 +1953,10 @@
           "text": "혈청단백질전기영동</td></tr><tr><td colspan=\"2\">77. 17세 남자가 수염과 음모가 나지 않는다고 병원에 왔다. 키 176 cm, 몸무게 60 kg, 혈압 120/70 mmHg, 맥박 86회/분, 호흡 16회/분, 체온 36.5°C이다. 음모 발달은 태너기 I이다. 혈액검사 결과는 다음과 같다. 치료는?</td></tr><tr><td colspan=\"2\">갑상생자극호르몬 3.9 mIU/L (참고치, 0.34 ~ 4.25) 유리 T4 1.2 ng/dL (참고치, 0.70 ~ 1.24) 부신피질자극호르몬 12.5 pg/mL (참고치, 6 ~ 76) 코티슬 10.6 μg/dL (참고치, 5 ~ 25) 황체형성호르몬 0.8 mIU/mL (참고치, 2.0 ~ 15.0) 난포자극호르몬 0.2 mIU/mL (참고치, 3.0 ~ 20.0) 총테스토스테론 92 ng/dL (참고치, 270 ~ 1,070) 인슐린유사성장인자-1 270 ng/mL (참고치, 116 ~ 358)</td></tr><tr><td colspan=\"2\">"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "24시간 소변 단백질"
     }
   },
   {
@@ -1764,6 +1988,10 @@
           "text": "융모생식생자극호르몬"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "테스토스테론"
     }
   },
   {
@@ -1795,6 +2023,10 @@
           "text": "알레르기직장결장염"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "젖당불내성"
     }
   },
   {
@@ -1826,6 +2058,10 @@
           "text": "내시경역행담췌관조영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "복부컴퓨터단층촬영"
     }
   },
   {
@@ -1857,6 +2093,10 @@
           "text": "내시경역행담체관조영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "복부 초음파"
     }
   },
   {
@@ -1888,6 +2128,10 @@
           "text": "메틸프레드니솔론"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "레보타이록신"
     }
   },
   {
@@ -1915,6 +2159,10 @@
           "text": "생식샘자극호몬방출호몬 자극검사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": ""
     }
   },
   {
@@ -1946,6 +2194,10 @@
           "text": "0.9% 식염수 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "0.9% 식염수 정맥주사"
     }
   },
   {
@@ -1977,6 +2229,10 @@
           "text": "카르밤산염살충제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "파라콰"
     }
   },
   {
@@ -2008,6 +2264,10 @@
           "text": "퓨로세마이드 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "0.9% 식염수 정맥주사"
     }
   },
   {
@@ -2035,6 +2295,10 @@
           "text": "아밀로라이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "아밀로라이드"
     }
   },
   {
@@ -2066,6 +2330,10 @@
           "text": "생식샘자극호몬방출호몬작용제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "에스트로젠 + 프로제스토젠"
     }
   },
   {
@@ -2097,6 +2365,10 @@
           "text": "일주기리듬수면각성장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "기면증"
     }
   },
   {
@@ -2128,6 +2400,10 @@
           "text": "자궁절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "항생제 정맥주사"
     }
   },
   {
@@ -2159,6 +2435,10 @@
           "text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
     }
   },
   {
@@ -2190,6 +2470,10 @@
           "text": "잠두시랫큐, 칡병, 칡병구 1~3/고배율시야</td></tr></table>"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "근위 신세관산증"
     }
   },
   {
@@ -2221,6 +2505,10 @@
           "text": "방광요관역류"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "방광염"
     }
   },
   {
@@ -2252,6 +2540,10 @@
           "text": "자궁긁어냄"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "자궁긁어냄"
     }
   },
   {
@@ -2283,6 +2575,10 @@
           "text": "메토클로프라마이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "긴장이완요법"
     }
   },
   {
@@ -2314,6 +2610,10 @@
           "text": "뇌 컴퓨터단층촬영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "뇌 컴퓨터단층촬영"
     }
   },
   {
@@ -2345,6 +2645,10 @@
           "text": "오늘부터3일간두알씩복용후남은약을매일한알 씩 복용"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "오늘 두 알 복용 후 남은 약을 매일 한 알씩 복용"
     }
   },
   {
@@ -2376,6 +2680,10 @@
           "text": "생식샘제거"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "생식샘제거"
     }
   },
   {
@@ -2407,6 +2715,10 @@
           "text": "노르에피네프린 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "노르에피네프린 정맥주사"
     }
   },
   {
@@ -2438,6 +2750,10 @@
           "text": "위배출능검사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "수소날숨검사"
     }
   },
   {
@@ -2469,6 +2785,10 @@
           "text": "프로프라놀룰"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "수마트립탄"
     }
   },
   {
@@ -2500,6 +2820,10 @@
           "text": "항갈망제 투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "신체상태 평가"
     }
   },
   {
@@ -2531,6 +2855,10 @@
           "text": "외상후스트레스장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "지속성애도장애"
     }
   },
   {
@@ -2562,6 +2890,10 @@
           "text": "포도당과 아미노산 영양수액"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "포도당과 아미노산 영양수액"
     }
   },
   {
@@ -2593,6 +2925,10 @@
           "text": "트라이메토프림-설파메톡사졸"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "세픽심"
     }
   },
   {
@@ -2624,6 +2960,10 @@
           "text": "인슐린자가면역증후군"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "설포닐유레아"
     }
   },
   {
@@ -2655,6 +2995,10 @@
           "text": "하이드록시클로로퀸"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "나프록센"
     }
   },
   {
@@ -2686,6 +3030,10 @@
           "text": "항고리시트를리펩타이드항체"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "항핵항체"
     }
   },
   {
@@ -2717,6 +3065,10 @@
           "text": "페그인터페론"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -2748,6 +3100,10 @@
           "text": "일차담관성담관염"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "전격간부전"
     }
   },
   {
@@ -2779,6 +3135,10 @@
           "text": "단회뇨 알부민/크레아티닌 비"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "단회뇨 알부민/크레아티닌 비"
     }
   },
   {
@@ -2810,6 +3170,10 @@
           "text": "국소분절사구체경화증"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "막신장병증"
     }
   },
   {
@@ -2841,6 +3205,10 @@
           "text": "사슬알균감염후사구체신염"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "용혈요독증후군"
     }
   },
   {
@@ -2872,6 +3240,10 @@
           "text": "정맥신우조영사진"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "신장도플러초음파"
     }
   },
   {
@@ -2903,6 +3275,10 @@
           "text": "사슬알균감염후사구체신염"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "IgA신장병증"
     }
   },
   {
@@ -2934,6 +3310,10 @@
           "text": "아스페르길루스"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "돼지풀"
     }
   },
   {
@@ -2965,6 +3345,10 @@
           "text": "면역혈소판감소자반병"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "면역혈소판감소자반병"
     }
   },
   {
@@ -2996,6 +3380,10 @@
           "text": "저분자량혜파린 주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "신선냉동혈장 수혈"
     }
   },
   {
@@ -3027,6 +3415,10 @@
           "text": "유전구모양적혈구증"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "자가면역용혈빈혈"
     }
   },
   {
@@ -3058,6 +3450,10 @@
           "text": "화학요법"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "감시림프절생검"
     }
   },
   {
@@ -3089,6 +3485,10 @@
           "text": "노르에피네프린"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "노르에피네프린"
     }
   },
   {
@@ -3120,6 +3520,10 @@
           "text": "탐색개복"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -3151,6 +3555,10 @@
           "text": "특발혈소판감소자반병"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "특발혈소판감소자반병"
     }
   },
   {
@@ -3182,6 +3590,10 @@
           "text": "근간대 소발작 뇌전증"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "영아연축"
     }
   },
   {
@@ -3213,6 +3625,10 @@
           "text": "진정수면제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "아편유사제"
     }
   },
   {
@@ -3244,6 +3660,10 @@
           "text": "클로르프로마진 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "아리피프라졸 경구투여"
     }
   },
   {
@@ -3275,6 +3695,10 @@
           "text": "아미트립틸린 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "산소흡입"
     }
   },
   {
@@ -3306,6 +3730,10 @@
           "text": "양성돌발체위현기증(benign paroxysmal positional vertigo)</td></tr></table>"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "소뇌경색증(cerebellar infarction)"
     }
   },
   {
@@ -3337,6 +3765,10 @@
           "text": "디펩티딜펩타이드분해효소-4억제제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "식사요법"
     }
   },
   {
@@ -3368,6 +3800,10 @@
           "text": "요관신우경계폐쇄"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "대뇌동맥류"
     }
   },
   {
@@ -3399,6 +3835,10 @@
           "text": "트라이메토프림-설파메톡사졸"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "벤자틴페니실린"
     }
   },
   {
@@ -3430,6 +3870,10 @@
           "text": "주기적 방광 세척"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -3461,6 +3905,10 @@
           "text": "수두대상포진바이러스 중합효소사슬반응"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "엡스타인-바바이러스 캡시드항원 항체"
     }
   },
   {
@@ -3492,6 +3940,10 @@
           "text": "단백질보충제 중단"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "단백질보충제 중단"
     }
   },
   {
@@ -3523,6 +3975,10 @@
           "text": "글루코코티코이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "글루코코티코이드"
     }
   },
   {
@@ -3554,6 +4010,10 @@
           "text": "항정신병제 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "어머니와 분리"
     }
   },
   {
@@ -3585,6 +4045,10 @@
           "text": "방사성요오드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "메티마졸"
     }
   },
   {
@@ -3616,6 +4080,10 @@
           "text": "데스모프레신(desmopressin)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "둘록세틴(duloxetine)"
     }
   },
   {
@@ -3647,6 +4115,10 @@
           "text": "젖단백질가수분해분유"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "저인분유"
     }
   },
   {
@@ -3678,6 +4150,10 @@
           "text": "글루코코티코이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "레보타이록신"
     }
   },
   {
@@ -3709,6 +4185,10 @@
           "text": "신경성식욕부진증, 폭식/제거형"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "신경성폭식증"
     }
   },
   {
@@ -3740,6 +4220,10 @@
           "text": "사회의사소통장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "선택적 함구증"
     }
   },
   {
@@ -3771,6 +4255,10 @@
           "text": "간쇄기절제 및 림프절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -3802,6 +4290,10 @@
           "text": "출생 후 원인에 의한 성장저하"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "가족성 저신장"
     }
   },
   {
@@ -3833,6 +4325,10 @@
           "text": "위팔신경(brachial nerve)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "갈비사이위팔신경(intercostobrachial nerve)"
     }
   },
   {
@@ -3864,6 +4360,10 @@
           "text": "머리뼈 X선사진"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "뇌척수액검사"
     }
   },
   {
@@ -3895,6 +4395,10 @@
           "text": "E - 타살"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "B - 오른쪽 대퇴골 골절"
     }
   },
   {
@@ -3926,6 +4430,10 @@
           "text": "엠파글리플로진"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "엠파글리플로진"
     }
   },
   {
@@ -3957,6 +4465,10 @@
           "text": "파상풍-디프테리아"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "황열"
     }
   },
   {
@@ -3984,6 +4496,10 @@
           "text": "아시클로버 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "수두백신 접종"
     }
   },
   {
@@ -4015,6 +4531,10 @@
           "text": "의료비지급"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "학대신고"
     }
   },
   {
@@ -4046,6 +4566,10 @@
           "text": "아지트로마이신"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -4077,6 +4601,10 @@
           "text": "파종혈관내응고증"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "비용혈발열반응"
     }
   },
   {
@@ -4108,6 +4636,10 @@
           "text": "골반 자기공명영상"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "핵형검사"
     }
   },
   {
@@ -4139,6 +4671,10 @@
           "text": "돌발심실상빈맥 <자료(비공개)>"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "돌발심방세동"
     }
   },
   {
@@ -4170,6 +4706,10 @@
           "text": "세프트라이악손"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "테를리프레신"
     }
   },
   {
@@ -4201,6 +4741,10 @@
           "text": "자궁절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "추적관찰"
     }
   },
   {
@@ -4232,6 +4776,10 @@
           "text": "현장점검"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "치료군과 대조군 배정 알림"
     }
   },
   {
@@ -4263,6 +4811,10 @@
           "text": "나이트로글리세린을 사용하는 폭약공장 근무"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "주석을 사용하는 땀질 업무"
     }
   },
   {
@@ -4294,6 +4846,10 @@
           "text": "전신 독작용 가스"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "화학적 질식제"
     }
   },
   {
@@ -4325,6 +4881,10 @@
           "text": "평균 이환기간"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "발병률"
     }
   },
   {
@@ -4356,6 +4916,10 @@
           "text": "노말헥세인"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "디디티"
     }
   },
   {
@@ -4387,6 +4951,10 @@
           "text": "생물학적 설명 가능성"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "연관성의 강도"
     }
   },
   {
@@ -4418,6 +4986,10 @@
           "text": "보건사업 평가"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "우선순위 결정"
     }
   },
   {
@@ -4449,6 +5021,10 @@
           "text": "효율"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "통합"
     }
   },
   {
@@ -4480,6 +5056,10 @@
           "text": "휘발성유기화합물"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "질소산화물"
     }
   },
   {
@@ -4511,6 +5091,10 @@
           "text": "급여 서비스 범위"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "포괄하는 인구"
     }
   },
   {
@@ -4542,6 +5126,10 @@
           "text": "코호트내환자대조군연구"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "후향코호트연구"
     }
   },
   {
@@ -4573,6 +5161,10 @@
           "text": "전파과정 관리"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "숙주 관리"
     }
   },
   {
@@ -4604,6 +5196,10 @@
           "text": "기계 안전장치의 특성"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "안전관리"
     }
   },
   {
@@ -4635,6 +5231,10 @@
           "text": "예방채택과정 모형"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "계획된 행동이론"
     }
   },
   {
@@ -4666,6 +5266,10 @@
           "text": "정신적 건강"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "사회적 건강"
     }
   },
   {
@@ -4697,6 +5301,10 @@
           "text": "92.1 %"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "87.5 %"
     }
   },
   {
@@ -4728,6 +5336,10 @@
           "text": "자율성 존중과 해악금지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "자율성 존중과 해악금지"
     }
   },
   {
@@ -4759,6 +5371,10 @@
           "text": "어머니에게 환자의 아버지에게도 설명하고 동의를 구할 것을 요청함79. 16세 남자가 왼쪽 손에 입은 자상으로 1시간 전에 응급실에 왔다. 왼쪽 손목의 인대가 손상돼 수술이 필요한 상태다. 의사가 상처가 생긴 경위를 물으니 학교에서 친구들과 커터칼로 장난치다가 생겼다고 대답하였다. 얼마 후 경찰관이 응급실에 와서 손에 자상이 있는 남자가 있는지, 있다면 진료기록을 볼 수 있는지를 물었다. 의사의 적절한 조치는?"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함"
     }
   },
   {
@@ -4790,6 +5406,10 @@
           "text": "환자에게 상황을 알리고 환자의 동의를 구함"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함"
     }
   }
 ]

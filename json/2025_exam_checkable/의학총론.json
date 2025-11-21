@@ -1,0 +1,252 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 21,
+          "chosen_index": "③",
+          "chosen_text": "레보타이록신",
+          "reasoning": ""
+        },
+        {
+          "question_number": 22,
+          "chosen_index": "②",
+          "chosen_text": "신경성폭식증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 23,
+          "chosen_index": "④",
+          "chosen_text": "선택적 함구증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 25,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": ""
+        },
+        {
+          "question_number": 26,
+          "chosen_index": "①",
+          "chosen_text": "가족성 저신장",
+          "reasoning": ""
+        },
+        {
+          "question_number": 27,
+          "chosen_index": "①",
+          "chosen_text": "갈비사이위팔신경(intercostobrachial nerve)",
+          "reasoning": ""
+        },
+        {
+          "question_number": 30,
+          "chosen_index": "③",
+          "chosen_text": "뇌척수액검사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 31,
+          "chosen_index": "②",
+          "chosen_text": "B - 오른쪽 대퇴골 골절",
+          "reasoning": ""
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "⑤",
+          "chosen_text": "엠파글리플로진",
+          "reasoning": ""
+        },
+        {
+          "question_number": 35,
+          "chosen_index": "③",
+          "chosen_text": "황열",
+          "reasoning": ""
+        },
+        {
+          "question_number": 40,
+          "chosen_index": "③",
+          "chosen_text": "수두백신 접종",
+          "reasoning": ""
+        },
+        {
+          "question_number": 41,
+          "chosen_index": "④",
+          "chosen_text": "학대신고",
+          "reasoning": ""
+        },
+        {
+          "question_number": 42,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": ""
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "④",
+          "chosen_text": "비용혈발열반응",
+          "reasoning": ""
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "①",
+          "chosen_text": "핵형검사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 49,
+          "chosen_index": "③",
+          "chosen_text": "돌발심방세동",
+          "reasoning": ""
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "③",
+          "chosen_text": "테를리프레신",
+          "reasoning": ""
+        },
+        {
+          "question_number": 55,
+          "chosen_index": "①",
+          "chosen_text": "추적관찰",
+          "reasoning": ""
+        },
+        {
+          "question_number": 59,
+          "chosen_index": "③",
+          "chosen_text": "치료군과 대조군 배정 알림",
+          "reasoning": ""
+        },
+        {
+          "question_number": 60,
+          "chosen_index": "①",
+          "chosen_text": "주석을 사용하는 땀질 업무",
+          "reasoning": ""
+        },
+        {
+          "question_number": 61,
+          "chosen_index": "④",
+          "chosen_text": "화학적 질식제",
+          "reasoning": ""
+        },
+        {
+          "question_number": 62,
+          "chosen_index": "②",
+          "chosen_text": "발병률",
+          "reasoning": ""
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "③",
+          "chosen_text": "디디티",
+          "reasoning": ""
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "②",
+          "chosen_text": "연관성의 강도",
+          "reasoning": ""
+        },
+        {
+          "question_number": 65,
+          "chosen_index": "②",
+          "chosen_text": "우선순위 결정",
+          "reasoning": ""
+        },
+        {
+          "question_number": 66,
+          "chosen_index": "③",
+          "chosen_text": "통합",
+          "reasoning": ""
+        },
+        {
+          "question_number": 67,
+          "chosen_index": "④",
+          "chosen_text": "질소산화물",
+          "reasoning": ""
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "④",
+          "chosen_text": "포괄하는 인구",
+          "reasoning": ""
+        },
+        {
+          "question_number": 69,
+          "chosen_index": "④",
+          "chosen_text": "후향코호트연구",
+          "reasoning": ""
+        },
+        {
+          "question_number": 70,
+          "chosen_index": "①",
+          "chosen_text": "숙주 관리",
+          "reasoning": ""
+        },
+        {
+          "question_number": 71,
+          "chosen_index": "②",
+          "chosen_text": "안전관리",
+          "reasoning": ""
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "④",
+          "chosen_text": "계획된 행동이론",
+          "reasoning": ""
+        },
+        {
+          "question_number": 74,
+          "chosen_index": "③",
+          "chosen_text": "사회적 건강",
+          "reasoning": ""
+        },
+        {
+          "question_number": 75,
+          "chosen_index": "④",
+          "chosen_text": "87.5 %",
+          "reasoning": ""
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "⑤",
+          "chosen_text": "자율성 존중과 해악금지",
+          "reasoning": ""
+        },
+        {
+          "question_number": 78,
+          "chosen_index": "④",
+          "chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함",
+          "reasoning": ""
+        },
+        {
+          "question_number": 79,
+          "chosen_index": "⑤",
+          "chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

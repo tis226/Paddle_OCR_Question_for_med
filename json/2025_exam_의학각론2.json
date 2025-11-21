@@ -28,6 +28,10 @@
           "text": "내시경역행담췌관조영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "복부컴퓨터단층촬영"
     }
   },
   {
@@ -59,6 +63,10 @@
           "text": "내시경역행담체관조영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "복부 초음파"
     }
   },
   {
@@ -90,6 +98,10 @@
           "text": "메틸프레드니솔론"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "레보타이록신"
     }
   },
   {
@@ -117,6 +129,10 @@
           "text": "생식샘자극호몬방출호몬 자극검사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": ""
     }
   },
   {
@@ -148,6 +164,10 @@
           "text": "0.9% 식염수 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "0.9% 식염수 정맥주사"
     }
   },
   {
@@ -179,6 +199,10 @@
           "text": "카르밤산염살충제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "파라콰"
     }
   },
   {
@@ -210,6 +234,10 @@
           "text": "퓨로세마이드 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "0.9% 식염수 정맥주사"
     }
   },
   {
@@ -237,6 +265,10 @@
           "text": "아밀로라이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "아밀로라이드"
     }
   },
   {
@@ -268,6 +300,10 @@
           "text": "생식샘자극호몬방출호몬작용제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "에스트로젠 + 프로제스토젠"
     }
   },
   {
@@ -299,6 +335,10 @@
           "text": "일주기리듬수면각성장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "기면증"
     }
   },
   {
@@ -330,6 +370,10 @@
           "text": "자궁절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "항생제 정맥주사"
     }
   },
   {
@@ -361,6 +405,10 @@
           "text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
     }
   },
   {
@@ -392,6 +440,10 @@
           "text": "잠두시랫큐, 칡병, 칡병구 1~3/고배율시야</td></tr></table>"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "근위 신세관산증"
     }
   },
   {
@@ -423,6 +475,10 @@
           "text": "방광요관역류"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "방광염"
     }
   },
   {
@@ -454,6 +510,10 @@
           "text": "자궁긁어냄"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "자궁긁어냄"
     }
   },
   {
@@ -485,6 +545,10 @@
           "text": "메토클로프라마이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "긴장이완요법"
     }
   },
   {
@@ -516,6 +580,10 @@
           "text": "뇌 컴퓨터단층촬영"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "뇌 컴퓨터단층촬영"
     }
   },
   {
@@ -547,6 +615,10 @@
           "text": "오늘부터3일간두알씩복용후남은약을매일한알 씩 복용"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "오늘 두 알 복용 후 남은 약을 매일 한 알씩 복용"
     }
   },
   {
@@ -578,6 +650,10 @@
           "text": "생식샘제거"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "생식샘제거"
     }
   },
   {
@@ -609,6 +685,10 @@
           "text": "노르에피네프린 정맥주사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "노르에피네프린 정맥주사"
     }
   },
   {
@@ -640,6 +720,10 @@
           "text": "위배출능검사"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "수소날숨검사"
     }
   },
   {
@@ -671,6 +755,10 @@
           "text": "프로프라놀룰"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "수마트립탄"
     }
   },
   {
@@ -702,6 +790,10 @@
           "text": "항갈망제 투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "신체상태 평가"
     }
   },
   {
@@ -733,6 +825,10 @@
           "text": "외상후스트레스장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "지속성애도장애"
     }
   },
   {
@@ -764,6 +860,10 @@
           "text": "포도당과 아미노산 영양수액"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "포도당과 아미노산 영양수액"
     }
   },
   {
@@ -795,6 +895,10 @@
           "text": "트라이메토프림-설파메톡사졸"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "세픽심"
     }
   },
   {
@@ -826,6 +930,10 @@
           "text": "인슐린자가면역증후군"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "설포닐유레아"
     }
   },
   {
@@ -857,6 +965,10 @@
           "text": "하이드록시클로로퀸"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "나프록센"
     }
   }
 ]

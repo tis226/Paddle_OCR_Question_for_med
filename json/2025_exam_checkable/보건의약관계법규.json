@@ -1,0 +1,150 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 1,
+          "chosen_index": "④",
+          "chosen_text": "보톨리농독소증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 2,
+          "chosen_index": "②",
+          "chosen_text": "시·도지사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 3,
+          "chosen_index": "③",
+          "chosen_text": "면허취소",
+          "reasoning": ""
+        },
+        {
+          "question_number": 4,
+          "chosen_index": "②",
+          "chosen_text": "과태료",
+          "reasoning": ""
+        },
+        {
+          "question_number": 5,
+          "chosen_index": "①",
+          "chosen_text": "시장",
+          "reasoning": ""
+        },
+        {
+          "question_number": 6,
+          "chosen_index": "④",
+          "chosen_text": "5년",
+          "reasoning": ""
+        },
+        {
+          "question_number": 7,
+          "chosen_index": "⑤",
+          "chosen_text": "10년",
+          "reasoning": ""
+        },
+        {
+          "question_number": 8,
+          "chosen_index": "①",
+          "chosen_text": "1명",
+          "reasoning": ""
+        },
+        {
+          "question_number": 9,
+          "chosen_index": "①",
+          "chosen_text": "즉시",
+          "reasoning": ""
+        },
+        {
+          "question_number": 10,
+          "chosen_index": "②",
+          "chosen_text": "질병관리청장에게 신고",
+          "reasoning": ""
+        },
+        {
+          "question_number": 11,
+          "chosen_index": "⑤",
+          "chosen_text": "10년",
+          "reasoning": ""
+        },
+        {
+          "question_number": 12,
+          "chosen_index": "④",
+          "chosen_text": "건강보험심사평가원",
+          "reasoning": ""
+        },
+        {
+          "question_number": 13,
+          "chosen_index": "⑤",
+          "chosen_text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충",
+          "reasoning": ""
+        },
+        {
+          "question_number": 14,
+          "chosen_index": "③",
+          "chosen_text": "보건의료원",
+          "reasoning": ""
+        },
+        {
+          "question_number": 15,
+          "chosen_index": "③",
+          "chosen_text": "10일",
+          "reasoning": ""
+        },
+        {
+          "question_number": 16,
+          "chosen_index": "②",
+          "chosen_text": "식품의약품안전처장",
+          "reasoning": ""
+        },
+        {
+          "question_number": 17,
+          "chosen_index": "③",
+          "chosen_text": "'A' 병원에 종사하는 약사를 마약류관리자로 둠",
+          "reasoning": ""
+        },
+        {
+          "question_number": 18,
+          "chosen_index": "①",
+          "chosen_text": "다른 기관에 보고 없이 사본을 교부함",
+          "reasoning": ""
+        },
+        {
+          "question_number": 19,
+          "chosen_index": "④",
+          "chosen_text": "마취통증의학과",
+          "reasoning": ""
+        },
+        {
+          "question_number": 20,
+          "chosen_index": "⑤",
+          "chosen_text": "면허자격정지",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

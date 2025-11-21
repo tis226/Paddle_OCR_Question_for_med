@@ -28,6 +28,10 @@
           "text": "중증열성혈소판감소증후군(SFTS)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "보톨리농독소증"
     }
   },
   {
@@ -59,6 +63,10 @@
           "text": "이송한 권역응급의료센터의 장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "시·도지사"
     }
   },
   {
@@ -90,6 +98,10 @@
           "text": "면허자격정지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "면허취소"
     }
   },
   {
@@ -121,6 +133,10 @@
           "text": "의료기관 개설허가 취소"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "과태료"
     }
   },
   {
@@ -152,6 +168,10 @@
           "text": "국민건강보험공단 이사장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "시장"
     }
   },
   {
@@ -183,6 +203,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "5년"
     }
   },
   {
@@ -214,6 +238,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "10년"
     }
   },
   {
@@ -245,6 +273,10 @@
           "text": "5명"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "1명"
     }
   },
   {
@@ -276,6 +308,10 @@
           "text": "2주일"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "즉시"
     }
   },
   {
@@ -307,6 +343,10 @@
           "text": "의료기관 소재지의 보건소장을 거쳐 'A' 특별시장에게 신고"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "질병관리청장에게 신고"
     }
   },
   {
@@ -338,6 +378,10 @@
           "text": "10년"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "10년"
     }
   },
   {
@@ -369,6 +413,10 @@
           "text": "건강보험분쟁조정위원회"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "건강보험심사평가원"
     }
   },
   {
@@ -400,6 +448,10 @@
           "text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
     }
   },
   {
@@ -431,6 +483,10 @@
           "text": "공공보건의료지원단"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "보건의료원"
     }
   },
   {
@@ -462,6 +518,10 @@
           "text": "21일"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "10일"
     }
   },
   {
@@ -493,6 +553,10 @@
           "text": "관할 보건소장"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "식품의약품안전처장"
     }
   },
   {
@@ -524,6 +588,10 @@
           "text": "'갑'을 제외한 3명의 의사 중 1명을 마약류관리자로 둠"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "'A' 병원에 종사하는 약사를 마약류관리자로 둠"
     }
   },
   {
@@ -555,6 +623,10 @@
           "text": "환자의 진료기록 관련 사본을 교부하지 않음"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "다른 기관에 보고 없이 사본을 교부함"
     }
   },
   {
@@ -586,6 +658,10 @@
           "text": "정신건강의학과"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "마취통증의학과"
     }
   },
   {
@@ -617,6 +693,10 @@
           "text": "면허자격정지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "면허자격정지"
     }
   }
 ]

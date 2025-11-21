@@ -28,6 +28,10 @@
           "text": "글루코코티코이드"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "레보타이록신"
     }
   },
   {
@@ -59,6 +63,10 @@
           "text": "신경성식욕부진증, 폭식/제거형"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "신경성폭식증"
     }
   },
   {
@@ -90,6 +98,10 @@
           "text": "사회의사소통장애"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "선택적 함구증"
     }
   },
   {
@@ -121,6 +133,10 @@
           "text": "간쇄기절제 및 림프절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -152,6 +168,10 @@
           "text": "출생 후 원인에 의한 성장저하"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "가족성 저신장"
     }
   },
   {
@@ -183,6 +203,10 @@
           "text": "위팔신경(brachial nerve)"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "갈비사이위팔신경(intercostobrachial nerve)"
     }
   },
   {
@@ -214,6 +238,10 @@
           "text": "머리뼈 X선사진"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "뇌척수액검사"
     }
   },
   {
@@ -245,6 +273,10 @@
           "text": "E - 타살"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "B - 오른쪽 대퇴골 골절"
     }
   },
   {
@@ -276,6 +308,10 @@
           "text": "엠파글리플로진"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "엠파글리플로진"
     }
   },
   {
@@ -307,6 +343,10 @@
           "text": "파상풍-디프테리아"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "황열"
     }
   },
   {
@@ -334,6 +374,10 @@
           "text": "아시클로버 경구투여"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "수두백신 접종"
     }
   },
   {
@@ -365,6 +409,10 @@
           "text": "의료비지급"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "학대신고"
     }
   },
   {
@@ -396,6 +444,10 @@
           "text": "아지트로마이신"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "경과관찰"
     }
   },
   {
@@ -427,6 +479,10 @@
           "text": "파종혈관내응고증"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "비용혈발열반응"
     }
   },
   {
@@ -458,6 +514,10 @@
           "text": "골반 자기공명영상"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "핵형검사"
     }
   },
   {
@@ -489,6 +549,10 @@
           "text": "돌발심실상빈맥 <자료(비공개)>"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "돌발심방세동"
     }
   },
   {
@@ -520,6 +584,10 @@
           "text": "세프트라이악손"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "테를리프레신"
     }
   },
   {
@@ -551,6 +619,10 @@
           "text": "자궁절제"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "추적관찰"
     }
   },
   {
@@ -582,6 +654,10 @@
           "text": "현장점검"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "치료군과 대조군 배정 알림"
     }
   },
   {
@@ -613,6 +689,10 @@
           "text": "나이트로글리세린을 사용하는 폭약공장 근무"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "주석을 사용하는 땀질 업무"
     }
   },
   {
@@ -644,6 +724,10 @@
           "text": "전신 독작용 가스"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "화학적 질식제"
     }
   },
   {
@@ -675,6 +759,10 @@
           "text": "평균 이환기간"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "발병률"
     }
   },
   {
@@ -706,6 +794,10 @@
           "text": "노말헥세인"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "디디티"
     }
   },
   {
@@ -737,6 +829,10 @@
           "text": "생물학적 설명 가능성"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "연관성의 강도"
     }
   },
   {
@@ -768,6 +864,10 @@
           "text": "보건사업 평가"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "우선순위 결정"
     }
   },
   {
@@ -799,6 +899,10 @@
           "text": "효율"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "통합"
     }
   },
   {
@@ -830,6 +934,10 @@
           "text": "휘발성유기화합물"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "질소산화물"
     }
   },
   {
@@ -861,6 +969,10 @@
           "text": "급여 서비스 범위"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "포괄하는 인구"
     }
   },
   {
@@ -892,6 +1004,10 @@
           "text": "코호트내환자대조군연구"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "후향코호트연구"
     }
   },
   {
@@ -923,6 +1039,10 @@
           "text": "전파과정 관리"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "①",
+      "chosen_text": "숙주 관리"
     }
   },
   {
@@ -954,6 +1074,10 @@
           "text": "기계 안전장치의 특성"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "②",
+      "chosen_text": "안전관리"
     }
   },
   {
@@ -985,6 +1109,10 @@
           "text": "예방채택과정 모형"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "계획된 행동이론"
     }
   },
   {
@@ -1016,6 +1144,10 @@
           "text": "정신적 건강"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "③",
+      "chosen_text": "사회적 건강"
     }
   },
   {
@@ -1047,6 +1179,10 @@
           "text": "92.1 %"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "87.5 %"
     }
   },
   {
@@ -1078,6 +1214,10 @@
           "text": "자율성 존중과 해악금지"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "자율성 존중과 해악금지"
     }
   },
   {
@@ -1109,6 +1249,10 @@
           "text": "어머니에게 환자의 아버지에게도 설명하고 동의를 구할 것을 요청함79. 16세 남자가 왼쪽 손에 입은 자상으로 1시간 전에 응급실에 왔다. 왼쪽 손목의 인대가 손상돼 수술이 필요한 상태다. 의사가 상처가 생긴 경위를 물으니 학교에서 친구들과 커터칼로 장난치다가 생겼다고 대답하였다. 얼마 후 경찰관이 응급실에 와서 손에 자상이 있는 남자가 있는지, 있다면 진료기록을 볼 수 있는지를 물었다. 의사의 적절한 조치는?"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "④",
+      "chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함"
     }
   },
   {
@@ -1140,6 +1284,10 @@
           "text": "환자에게 상황을 알리고 환자의 동의를 구함"
         }
       ]
+    },
+    "ai_answer": {
+      "chosen_index": "⑤",
+      "chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함"
     }
   }
 ]

@@ -1,0 +1,198 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 3,
+          "chosen_index": "④",
+          "chosen_text": "복부컴퓨터단층촬영",
+          "reasoning": ""
+        },
+        {
+          "question_number": 4,
+          "chosen_index": "③",
+          "chosen_text": "복부 초음파",
+          "reasoning": ""
+        },
+        {
+          "question_number": 8,
+          "chosen_index": "③",
+          "chosen_text": "레보타이록신",
+          "reasoning": ""
+        },
+        {
+          "question_number": 9,
+          "chosen_index": "⑤",
+          "chosen_text": "",
+          "reasoning": ""
+        },
+        {
+          "question_number": 13,
+          "chosen_index": "⑤",
+          "chosen_text": "0.9% 식염수 정맥주사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 17,
+          "chosen_index": "①",
+          "chosen_text": "파라콰",
+          "reasoning": ""
+        },
+        {
+          "question_number": 20,
+          "chosen_index": "④",
+          "chosen_text": "0.9% 식염수 정맥주사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "④",
+          "chosen_text": "아밀로라이드",
+          "reasoning": ""
+        },
+        {
+          "question_number": 32,
+          "chosen_index": "③",
+          "chosen_text": "에스트로젠 + 프로제스토젠",
+          "reasoning": ""
+        },
+        {
+          "question_number": 36,
+          "chosen_index": "①",
+          "chosen_text": "기면증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 37,
+          "chosen_index": "②",
+          "chosen_text": "항생제 정맥주사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 39,
+          "chosen_index": "⑤",
+          "chosen_text": "123I-MIBG(metaiodobenzylguanidine) 스캔",
+          "reasoning": ""
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "①",
+          "chosen_text": "근위 신세관산증",
+          "reasoning": ""
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "①",
+          "chosen_text": "방광염",
+          "reasoning": ""
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "⑤",
+          "chosen_text": "자궁긁어냄",
+          "reasoning": ""
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "③",
+          "chosen_text": "긴장이완요법",
+          "reasoning": ""
+        },
+        {
+          "question_number": 48,
+          "chosen_index": "⑤",
+          "chosen_text": "뇌 컴퓨터단층촬영",
+          "reasoning": ""
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "③",
+          "chosen_text": "오늘 두 알 복용 후 남은 약을 매일 한 알씩 복용",
+          "reasoning": ""
+        },
+        {
+          "question_number": 52,
+          "chosen_index": "⑤",
+          "chosen_text": "생식샘제거",
+          "reasoning": ""
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "⑤",
+          "chosen_text": "노르에피네프린 정맥주사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 56,
+          "chosen_index": "③",
+          "chosen_text": "수소날숨검사",
+          "reasoning": ""
+        },
+        {
+          "question_number": 61,
+          "chosen_index": "②",
+          "chosen_text": "수마트립탄",
+          "reasoning": ""
+        },
+        {
+          "question_number": 62,
+          "chosen_index": "③",
+          "chosen_text": "신체상태 평가",
+          "reasoning": ""
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "③",
+          "chosen_text": "지속성애도장애",
+          "reasoning": ""
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "⑤",
+          "chosen_text": "포도당과 아미노산 영양수액",
+          "reasoning": ""
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "①",
+          "chosen_text": "세픽심",
+          "reasoning": ""
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "③",
+          "chosen_text": "설포닐유레아",
+          "reasoning": ""
+        },
+        {
+          "question_number": 80,
+          "chosen_index": "②",
+          "chosen_text": "나프록센",
+          "reasoning": ""
+        }
+      ]
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}
