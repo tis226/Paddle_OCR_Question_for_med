@@ -27,7 +27,12 @@
           "index": "⑤",
           "text": "항혈소판제 경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "항혈소판제 경구투여"
+      }
     }
   },
   {
@@ -56,9 +61,14 @@
         },
         {
           "index": "⑤",
-          "text": "ep스모프레신"
+          "text": "데스모프레신"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "데스모프레신"
+      }
     }
   },
   {
@@ -89,7 +99,12 @@
           "index": "⑤",
           "text": "선천폐동맥판무형성"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "확장심근병증"
+      }
     }
   },
   {
@@ -120,7 +135,12 @@
           "index": "⑤",
           "text": "단기정신병장애"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "주요우울장애"
+      }
     }
   },
   {
@@ -151,7 +171,12 @@
           "index": "⑤",
           "text": "클라미디아트라코마티스(Chlamydia trachomatis)"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "나이세리아임균(Neisseria gonorrhoeae)"
+      }
     }
   },
   {
@@ -182,7 +207,12 @@
           "index": "⑤",
           "text": "자궁절제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "원뿔절제"
+      }
     }
   },
   {
@@ -213,7 +243,12 @@
           "index": "⑤",
           "text": "편집성성격장애"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "편집성성격장애"
+      }
     }
   },
   {
@@ -244,7 +279,12 @@
           "index": "⑤",
           "text": "진단복강경술"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "진단복강경술"
+      }
     }
   },
   {
@@ -275,7 +315,12 @@
           "index": "⑤",
           "text": "복부 컴퓨터단층촬영"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "복부 컴퓨터단층촬영"
+      }
     }
   },
   {
@@ -306,7 +351,12 @@
           "index": "⑤",
           "text": "하루 6g 미만 소금 섭취제한"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "하루 6g 미만 소금 섭취제한"
+      }
     }
   },
   {
@@ -337,7 +387,12 @@
           "index": "⑤",
           "text": "전체췌장절제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "췌장꼬리절제"
+      }
     }
   },
   {
@@ -368,7 +423,12 @@
           "index": "⑤",
           "text": "0.9% 식염수 빠르게 정맥주사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "0.9% 식염수 빠르게 정맥주사"
+      }
     }
   },
   {
@@ -399,7 +459,12 @@
           "index": "⑤",
           "text": "형광안저혈관조영술"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "안압측정"
+      }
     }
   },
   {
@@ -430,7 +495,12 @@
           "index": "⑤",
           "text": "에스시탈로프람"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "클로니딘"
+      }
     }
   },
   {
@@ -461,7 +531,12 @@
           "index": "⑤",
           "text": "변증법적행동치료"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "전기경련요법"
+      }
     }
   },
   {
@@ -492,7 +567,12 @@
           "index": "⑤",
           "text": "아토목세틴"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "라모트리진"
+      }
     }
   },
   {
@@ -522,8 +602,13 @@
         {
           "index": "⑤",
           "text": "탈억제성사회적유대감장애"
-        }        
-      ]
+        }
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "순환성장애"
+      }
     }
   },
   {
@@ -554,7 +639,12 @@
           "index": "⑤",
           "text": "플루옥세틴"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "플루옥세틴"
+      }
     }
   },
   {
@@ -585,7 +675,12 @@
           "index": "⑤",
           "text": "골반울혈증후군"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "난소꼬임"
+      }
     }
   },
   {
@@ -616,7 +711,12 @@
           "index": "⑤",
           "text": "울리프리스탈아세테이트"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "메토트렉세이트"
+      }
     }
   },
   {
@@ -625,7 +725,7 @@
     "target": "Default",
     "content": {
       "question_number": 43,
-      "question_text": "72세 남자가 아들이 돈을 홈쳐간다며 화를 내고 집에 불을 지르러 해서 병원에 왔다. 5년 전부터는 며칠 전의 일을 기억하지 못하고, 물건 이름을 자주 잊어버렸다. 1년 전부터는 1시간 전에 밥을 먹고도 굶었다며 다시 달라고 요구했다고 한다. 혈액검사 결과는 정상이다. 뇌 자기공명영상에서 대뇌 피질의 위축 외에는 이상이 없다. 간이정신상태검사 결과는 다음과 같다. 치료는?시간지남력 5/5 장소지남력 5/5 기억등록 3/3 기억회상 0/3 주의집중 및 계산 1/5 언어능력 4/8 시각구성 0/1 > 총점 18/30",      
+      "question_text": "72세 남자가 아들이 돈을 홈쳐간다며 화를 내고 집에 불을 지르러 해서 병원에 왔다. 5년 전부터는 며칠 전의 일을 기억하지 못하고, 물건 이름을 자주 잊어버렸다. 1년 전부터는 1시간 전에 밥을 먹고도 굶었다며 다시 달라고 요구했다고 한다. 혈액검사 결과는 정상이다. 뇌 자기공명영상에서 대뇌 피질의 위축 외에는 이상이 없다. 간이정신상태검사 결과는 다음과 같다. 치료는?시간지남력 5/5 장소지남력 5/5 기억등록 3/3 기억회상 0/3 주의집중 및 계산 1/5 언어능력 4/8 시각구성 0/1 > 총점 18/30",
       "options": [
         {
           "index": "①",
@@ -647,7 +747,12 @@
           "index": "⑤",
           "text": "플루옥세틴"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "리스페리돈"
+      }
     }
   },
   {
@@ -656,7 +761,7 @@
     "target": "Default",
     "content": {
       "question_number": 44,
-      "question_text": "22세 남자가 불안하다며 병원에 왔다. 대학생으로 이번 학기 부터 원어민 강사의 영어회화 수업에 참여했다. 강의시간마다 모든 학생이 발표하는데, 자신의 차례가 되면 가슴이 심하게 두근거리고 식은땀이 나며, 목소리가 떨려 발표를 제대로 못 했다. 최근에는 영어회화 수업시간에 3번이나 결석을 하였다. 다음 주 에는 영어로 발표하는 시험이 예정되어 있는데 그 생각만 하면 너무 불안해진다. 중학교 1학년 때 발표를 하다가 창피를 당한 이후로 발표할 때면 심하게 긴장했다. 다른 과목 수업을 듣는 데는 전혀 문제가 없다고 한다. 치료는?",      
+      "question_text": "22세 남자가 불안하다며 병원에 왔다. 대학생으로 이번 학기 부터 원어민 강사의 영어회화 수업에 참여했다. 강의시간마다 모든 학생이 발표하는데, 자신의 차례가 되면 가슴이 심하게 두근거리고 식은땀이 나며, 목소리가 떨려 발표를 제대로 못 했다. 최근에는 영어회화 수업시간에 3번이나 결석을 하였다. 다음 주 에는 영어로 발표하는 시험이 예정되어 있는데 그 생각만 하면 너무 불안해진다. 중학교 1학년 때 발표를 하다가 창피를 당한 이후로 발표할 때면 심하게 긴장했다. 다른 과목 수업을 듣는 데는 전혀 문제가 없다고 한다. 치료는?",
       "options": [
         {
           "index": "①",
@@ -678,7 +783,12 @@
           "index": "⑤",
           "text": "안구운동탈민감재처리"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "인지행동치료"
+      }
     }
   },
   {
@@ -709,7 +819,12 @@
           "index": "⑤",
           "text": "케토프로펜"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "셀레콕시브"
+      }
     }
   },
   {
@@ -740,7 +855,12 @@
           "index": "⑤",
           "text": "후대뇌동맥"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "척추동맥"
+      }
     }
   },
   {
@@ -771,7 +891,12 @@
           "index": "⑤",
           "text": "광견병백신+사람공수병면역글로블린"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "아목시실린-클라볼라네이트"
+      }
     }
   },
   {
@@ -802,7 +927,12 @@
           "index": "⑤",
           "text": "쌍둥이 빈혈-다혈증연쇄"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "쌍둥이 수혈증후군"
+      }
     }
   },
   {
@@ -833,7 +963,12 @@
           "index": "⑤",
           "text": "환경온도 낮추기"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "환경온도 낮추기"
+      }
     }
   },
   {
@@ -864,7 +999,12 @@
           "index": "⑤",
           "text": "아연 아세테이트"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "경과관찰"
+      }
     }
   },
   {
@@ -895,7 +1035,12 @@
           "index": "⑤",
           "text": "리라글루타이드"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "인슐린"
+      }
     }
   },
   {
@@ -926,7 +1071,12 @@
           "index": "⑤",
           "text": "항정신병제 중단"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "전해질 검사"
+      }
     }
   },
   {
@@ -957,7 +1107,12 @@
           "index": "⑤",
           "text": "항바이러스제경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "항바이러스제경구투여"
+      }
     }
   },
   {
@@ -988,7 +1143,12 @@
           "index": "⑤",
           "text": "고유량 100 % 산소 공급"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "고압산소요법"
+      }
     }
   },
   {
@@ -1019,7 +1179,12 @@
           "index": "⑤",
           "text": "일과성전체기억상실"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "일과성전체기억상실"
+      }
     }
   },
   {
@@ -1050,7 +1215,12 @@
           "index": "⑤",
           "text": "류마티스관절염"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "반응관절염"
+      }
     }
   },
   {
@@ -1081,7 +1251,12 @@
           "index": "⑤",
           "text": "다이펜하이드라민 경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "다이펜하이드라민 경구투여"
+      }
     }
   },
   {
@@ -1111,28 +1286,13 @@
         {
           "index": "⑤",
           "text": "혈청단백질전기영동</td></tr><tr><td colspan=\"2\">77. 17세 남자가 수염과 음모가 나지 않는다고 병원에 왔다. 키 176 cm, 몸무게 60 kg, 혈압 120/70 mmHg, 맥박 86회/분, 호흡 16회/분, 체온 36.5°C이다. 음모 발달은 태너기 I이다. 혈액검사 결과는 다음과 같다. 치료는?</td></tr><tr><td colspan=\"2\">갑상생자극호르몬 3.9 mIU/L (참고치, 0.34 ~ 4.25) 유리 T4 1.2 ng/dL (참고치, 0.70 ~ 1.24) 부신피질자극호르몬 12.5 pg/mL (참고치, 6 ~ 76) 코티슬 10.6 μg/dL (참고치, 5 ~ 25) 황체형성호르몬 0.8 mIU/mL (참고치, 2.0 ~ 15.0) 난포자극호르몬 0.2 mIU/mL (참고치, 3.0 ~ 20.0) 총테스토스테론 92 ng/dL (참고치, 270 ~ 1,070) 인슐린유사성장인자-1 270 ng/mL (참고치, 116 ~ 358)</td></tr><tr><td colspan=\"2\">"
-        },
-        {
-          "index": "①",
-          "text": "레보타이록신"
-        },
-        {
-          "index": "②",
-          "text": "테스토스테론"
-        },
-        {
-          "index": "③",
-          "text": "프로제스테론"
-        },
-        {
-          "index": "④",
-          "text": "글루코코티코이드"
-        },
-        {
-          "index": "⑤",
-          "text": "융모생식생자극호르몬</td></tr></table>"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "24시간 소변 단백질"
+      }
     }
   },
   {
@@ -1163,7 +1323,12 @@
           "index": "⑤",
           "text": "융모생식생자극호르몬"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "테스토스테론"
+      }
     }
   },
   {
@@ -1194,7 +1359,12 @@
           "index": "⑤",
           "text": "알레르기직장결장염"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "젖당불내성"
+      }
     }
   }
 ]

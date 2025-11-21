@@ -27,7 +27,12 @@
           "index": "⑤",
           "text": "내시경역행담췌관조영"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "복부컴퓨터단층촬영"
+      }
     }
   },
   {
@@ -58,7 +63,12 @@
           "index": "⑤",
           "text": "내시경역행담체관조영"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "복부 초음파"
+      }
     }
   },
   {
@@ -89,7 +99,12 @@
           "index": "⑤",
           "text": "메틸프레드니솔론"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "레보타이록신"
+      }
     }
   },
   {
@@ -101,22 +116,27 @@
       "question_text": "7세 여아가 10개월 전부터 가슴이 나온다며 병원에 왔다. 최근 1년 동안 키가 9 cm 컸다. 키 128 cm (75~90백분위수), 체중 34 kg (97백분위수)이다. 유방 발달은 태너기 Ⅲ, 음모 발달은 태너기 Ⅱ, 뼈나이는 9세이다. 검사 결과는 다음과 같다. 추가할 검사는? 혈액: 황체형성호르몬 2.8 mlU/mL (참고치, <0.05, 사춘기 전 여야) 에스트라다이올 42 pg/mL (참고치, <16, 사춘기 전 여야) 갑상샘자극호르몬 2.8 mlU/L (참고치, 0.5 ~ 6.3) 유리 T₄ 1.23 ng/dL (참고치, 0.8 ~ 2.5) 안장 자기공명영상: 정상",
       "options": [
         {
-          "index": "②",
+          "index": "①",
           "text": "염색체 핵형검사"
         },
         {
-          "index": "③",
+          "index": "②",
           "text": "99mTc-갑상샘스캔"
         },
         {
-          "index": "④",
+          "index": "③",
           "text": "부신피질자극호르몬"
         },
         {
-          "index": "⑤",
+          "index": "④",
           "text": "생식샘자극호몬방출호몬 자극검사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": ""
+      }
     }
   },
   {
@@ -147,7 +167,12 @@
           "index": "⑤",
           "text": "0.9% 식염수 정맥주사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "0.9% 식염수 정맥주사"
+      }
     }
   },
   {
@@ -178,7 +203,12 @@
           "index": "⑤",
           "text": "카르밤산염살충제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "파라콰"
+      }
     }
   },
   {
@@ -209,7 +239,12 @@
           "index": "⑤",
           "text": "퓨로세마이드 정맥주사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "0.9% 식염수 정맥주사"
+      }
     }
   },
   {
@@ -221,22 +256,27 @@
       "question_text": "38세 남자가 혈압이 높다며 병원에 왔다. 병역판정검사에서 혈압이 높다고 들었지만 치료받은 적은 없다. 혈압 160/102 mmHg, 맥박 88회/분, 호흡 16회/분, 체온 36.5℃이다. 최근 3일간의 가정혈압과 검사 결과는 다음과 같다. 치료는? 가정혈압(mmHg): 아침 저녁 172/100 180/112 168/108 169/101 174/106 165/102 혈액: Na⁺/K⁺ 140/6.1 meq/L 혈액요소질소/크레아티닌 35/3.6 mg/dL 소변: 잠혈 (-), 단백질 (+), 적혈구 0~1/고배율시야",
       "options": [
         {
-          "index": "②",
+          "index": "①",
           "text": "라미프릴"
         },
         {
-          "index": "③",
+          "index": "②",
           "text": "암로디핀"
         },
         {
-          "index": "④",
+          "index": "③",
           "text": "스피로놀락톤"
         },
         {
-          "index": "⑤",
+          "index": "④",
           "text": "아밀로라이드"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "아밀로라이드"
+      }
     }
   },
   {
@@ -267,7 +307,12 @@
           "index": "⑤",
           "text": "생식샘자극호몬방출호몬작용제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "에스트로젠 + 프로제스토젠"
+      }
     }
   },
   {
@@ -298,7 +343,12 @@
           "index": "⑤",
           "text": "일주기리듬수면각성장애"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "기면증"
+      }
     }
   },
   {
@@ -329,7 +379,12 @@
           "index": "⑤",
           "text": "자궁절제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "항생제 정맥주사"
+      }
     }
   },
   {
@@ -360,7 +415,12 @@
           "index": "⑤",
           "text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "123I-MIBG(metaiodobenzylguanidine) 스캔"
+      }
     }
   },
   {
@@ -390,12 +450,13 @@
         {
           "index": "⑤",
           "text": "잠두시랫큐, 칡병, 칡병구 1~3/고배율시야</td></tr></table>"
-        },
-        {
-          "index": "⑤",
-          "text": "알도스테론 형성 장애"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "근위 신세관산증"
+      }
     }
   },
   {
@@ -426,7 +487,12 @@
           "index": "⑤",
           "text": "방광요관역류"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "방광염"
+      }
     }
   },
   {
@@ -455,40 +521,14 @@
         },
         {
           "index": "⑤",
-          "text": "자궁긁어냄</td></tr><tr><td colspan=\"2\">46. 20세 남자가 2일 전부터 기침을 하고 숨이 찬다며 병원에 왔다. 10일 전부터 흡연을 새로 시작하였다. 혈압 124/80 mmHg, 맥박 100회/분, 호흡 22회/분, 체온 37.7℃이다. 양쪽 가슴에서 거품소리가 들린다. 가슴 X선사진(사진 1), 가슴 검퓨터단층 촬영 사진(사진 2)과 기관지폐포 세척액 펴바른표본 사진(사진 3)이다. 검사 결과는 다음과 같다. 치료는?</td></tr><tr><td colspan=\"2\">혈액: 혈색소 12.8 g/dL, 백혈구 11,300/mm³ (중성구 86 %, 림프구 10 %, 호산구 2 %) C반응단백질 40 mg/L (참고치, &lt;10) 동맥혈기체(대기호흡): pH 7.41, PaCO2 30 mmHg PaO2 74 mmHg</td></tr></table>"
-        }
-      ]
-    }
-  },
-  {
-    "subject": "의학각론2",
-    "year": 2025,
-    "target": "Default",
-    "content": {
-      "question_number": 46,
-      "question_text": "25세 산과력 1-0-0-1인 여자가 6시간 전에 성폭행을 당했다며 병원에 왔다. 소변임신반응검사 결과는 양성이다. 처치는?",
-      "options": [
-        {
-          "index": "①",
-          "text": "추적관찰"
-        },
-        {
-          "index": "②",
-          "text": "프로제스토젠"
-        },
-        {
-          "index": "③",
-          "text": "복합경구피임제"
-        },
-        {
-          "index": "④",
-          "text": "구리자궁내장치"
-        },
-        {
-          "index": "⑤",
           "text": "자궁긁어냄"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "자궁긁어냄"
+      }
     }
   },
   {
@@ -519,7 +559,12 @@
           "index": "⑤",
           "text": "메토클로프라마이드"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "긴장이완요법"
+      }
     }
   },
   {
@@ -550,7 +595,12 @@
           "index": "⑤",
           "text": "뇌 컴퓨터단층촬영"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "뇌 컴퓨터단층촬영"
+      }
     }
   },
   {
@@ -581,7 +631,12 @@
           "index": "⑤",
           "text": "오늘부터3일간두알씩복용후남은약을매일한알 씩 복용"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "오늘 두 알 복용 후 남은 약을 매일 한 알씩 복용"
+      }
     }
   },
   {
@@ -612,7 +667,12 @@
           "index": "⑤",
           "text": "생식샘제거"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "생식샘제거"
+      }
     }
   },
   {
@@ -643,7 +703,12 @@
           "index": "⑤",
           "text": "노르에피네프린 정맥주사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "노르에피네프린 정맥주사"
+      }
     }
   },
   {
@@ -674,7 +739,12 @@
           "index": "⑤",
           "text": "위배출능검사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "수소날숨검사"
+      }
     }
   },
   {
@@ -705,7 +775,12 @@
           "index": "⑤",
           "text": "프로프라놀룰"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "수마트립탄"
+      }
     }
   },
   {
@@ -736,7 +811,12 @@
           "index": "⑤",
           "text": "항갈망제 투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "신체상태 평가"
+      }
     }
   },
   {
@@ -767,7 +847,12 @@
           "index": "⑤",
           "text": "외상후스트레스장애"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "지속성애도장애"
+      }
     }
   },
   {
@@ -798,7 +883,12 @@
           "index": "⑤",
           "text": "포도당과 아미노산 영양수액"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "포도당과 아미노산 영양수액"
+      }
     }
   },
   {
@@ -829,10 +919,15 @@
           "index": "⑤",
           "text": "트라이메토프림-설파메톡사졸"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "세픽심"
+      }
     }
   },
-    {
+  {
     "subject": "의학각론2",
     "year": 2025,
     "target": "Default",
@@ -860,7 +955,12 @@
           "index": "⑤",
           "text": "인슐린자가면역증후군"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "설포닐유레아"
+      }
     }
   },
   {
@@ -891,7 +991,12 @@
           "index": "⑤",
           "text": "하이드록시클로로퀸"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "나프록센"
+      }
     }
   }
 ]

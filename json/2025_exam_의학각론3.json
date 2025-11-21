@@ -27,7 +27,12 @@
           "index": "⑤",
           "text": "항고리시트를리펩타이드항체"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "항핵항체"
+      }
     }
   },
   {
@@ -58,7 +63,12 @@
           "index": "⑤",
           "text": "페그인터페론"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "경과관찰"
+      }
     }
   },
   {
@@ -89,7 +99,12 @@
           "index": "⑤",
           "text": "일차담관성담관염"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "전격간부전"
+      }
     }
   },
   {
@@ -120,7 +135,12 @@
           "index": "⑤",
           "text": "단회뇨 알부민/크레아티닌 비"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "단회뇨 알부민/크레아티닌 비"
+      }
     }
   },
   {
@@ -151,7 +171,12 @@
           "index": "⑤",
           "text": "국소분절사구체경화증"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "막신장병증"
+      }
     }
   },
   {
@@ -182,7 +207,12 @@
           "index": "⑤",
           "text": "사슬알균감염후사구체신염"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "용혈요독증후군"
+      }
     }
   },
   {
@@ -213,7 +243,12 @@
           "index": "⑤",
           "text": "정맥신우조영사진"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "신장도플러초음파"
+      }
     }
   },
   {
@@ -244,7 +279,12 @@
           "index": "⑤",
           "text": "사슬알균감염후사구체신염"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "IgA신장병증"
+      }
     }
   },
   {
@@ -275,7 +315,12 @@
           "index": "⑤",
           "text": "아스페르길루스"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "돼지풀"
+      }
     }
   },
   {
@@ -306,7 +351,12 @@
           "index": "⑤",
           "text": "면역혈소판감소자반병"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "면역혈소판감소자반병"
+      }
     }
   },
   {
@@ -337,7 +387,12 @@
           "index": "⑤",
           "text": "저분자량혜파린 주사"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "신선냉동혈장 수혈"
+      }
     }
   },
   {
@@ -368,7 +423,12 @@
           "index": "⑤",
           "text": "유전구모양적혈구증"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "자가면역용혈빈혈"
+      }
     }
   },
   {
@@ -399,7 +459,12 @@
           "index": "⑤",
           "text": "화학요법"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "감시림프절생검"
+      }
     }
   },
   {
@@ -430,7 +495,12 @@
           "index": "⑤",
           "text": "노르에피네프린"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "노르에피네프린"
+      }
     }
   },
   {
@@ -461,7 +531,12 @@
           "index": "⑤",
           "text": "탐색개복"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "경과관찰"
+      }
     }
   },
   {
@@ -492,7 +567,12 @@
           "index": "⑤",
           "text": "특발혈소판감소자반병"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "특발혈소판감소자반병"
+      }
     }
   },
   {
@@ -523,7 +603,12 @@
           "index": "⑤",
           "text": "근간대 소발작 뇌전증"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "영아연축"
+      }
     }
   },
   {
@@ -554,7 +639,12 @@
           "index": "⑤",
           "text": "진정수면제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "아편유사제"
+      }
     }
   },
   {
@@ -585,7 +675,12 @@
           "index": "⑤",
           "text": "클로르프로마진 경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "아리피프라졸 경구투여"
+      }
     }
   },
   {
@@ -616,7 +711,12 @@
           "index": "⑤",
           "text": "아미트립틸린 경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "산소흡입"
+      }
     }
   },
   {
@@ -647,7 +747,12 @@
           "index": "⑤",
           "text": "양성돌발체위현기증(benign paroxysmal positional vertigo)</td></tr></table>"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "소뇌경색증(cerebellar infarction)"
+      }
     }
   },
   {
@@ -678,7 +783,12 @@
           "index": "⑤",
           "text": "디펩티딜펩타이드분해효소-4억제제"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "식사요법"
+      }
     }
   },
   {
@@ -709,7 +819,12 @@
           "index": "⑤",
           "text": "요관신우경계폐쇄"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "대뇌동맥류"
+      }
     }
   },
   {
@@ -740,7 +855,12 @@
           "index": "⑤",
           "text": "트라이메토프림-설파메톡사졸"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "벤자틴페니실린"
+      }
     }
   },
   {
@@ -771,7 +891,12 @@
           "index": "⑤",
           "text": "주기적 방광 세척"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "경과관찰"
+      }
     }
   },
   {
@@ -802,7 +927,12 @@
           "index": "⑤",
           "text": "수두대상포진바이러스 중합효소사슬반응"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "엡스타인-바바이러스 캡시드항원 항체"
+      }
     }
   },
   {
@@ -833,7 +963,12 @@
           "index": "⑤",
           "text": "단백질보충제 중단"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "단백질보충제 중단"
+      }
     }
   },
   {
@@ -864,7 +999,12 @@
           "index": "⑤",
           "text": "글루코코티코이드"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "글루코코티코이드"
+      }
     }
   },
   {
@@ -895,7 +1035,12 @@
           "index": "⑤",
           "text": "항정신병제 경구투여"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "어머니와 분리"
+      }
     }
   },
   {
@@ -926,7 +1071,12 @@
           "index": "⑤",
           "text": "방사성요오드"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "메티마졸"
+      }
     }
   },
   {
@@ -957,7 +1107,12 @@
           "index": "⑤",
           "text": "데스모프레신(desmopressin)"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "둘록세틴(duloxetine)"
+      }
     }
   },
   {
@@ -988,7 +1143,12 @@
           "index": "⑤",
           "text": "젖단백질가수분해분유"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "저인분유"
+      }
     }
   }
 ]

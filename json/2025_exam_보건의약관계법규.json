@@ -27,7 +27,12 @@
           "index": "⑤",
           "text": "중증열성혈소판감소증후군(SFTS)"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "보톨리농독소증"
+      }
     }
   },
   {
@@ -58,7 +63,12 @@
           "index": "⑤",
           "text": "이송한 권역응급의료센터의 장"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "시·도지사"
+      }
     }
   },
   {
@@ -89,7 +99,12 @@
           "index": "⑤",
           "text": "면허자격정지"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "면허취소"
+      }
     }
   },
   {
@@ -120,7 +135,12 @@
           "index": "⑤",
           "text": "의료기관 개설허가 취소"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "과태료"
+      }
     }
   },
   {
@@ -151,7 +171,12 @@
           "index": "⑤",
           "text": "국민건강보험공단 이사장"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "시장"
+      }
     }
   },
   {
@@ -182,7 +207,12 @@
           "index": "⑤",
           "text": "10년"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "5년"
+      }
     }
   },
   {
@@ -213,7 +243,12 @@
           "index": "⑤",
           "text": "10년"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "10년"
+      }
     }
   },
   {
@@ -244,7 +279,12 @@
           "index": "⑤",
           "text": "5명"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "1명"
+      }
     }
   },
   {
@@ -275,7 +315,12 @@
           "index": "⑤",
           "text": "2주일"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "즉시"
+      }
     }
   },
   {
@@ -306,7 +351,12 @@
           "index": "⑤",
           "text": "의료기관 소재지의 보건소장을 거쳐 'A' 특별시장에게 신고"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "질병관리청장에게 신고"
+      }
     }
   },
   {
@@ -337,7 +387,12 @@
           "index": "⑤",
           "text": "10년"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "10년"
+      }
     }
   },
   {
@@ -368,7 +423,12 @@
           "index": "⑤",
           "text": "건강보험분쟁조정위원회"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "건강보험심사평가원"
+      }
     }
   },
   {
@@ -399,7 +459,12 @@
           "index": "⑤",
           "text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "공공보건의료 및 건강증진을 위한 시설·장비의 확충"
+      }
     }
   },
   {
@@ -430,7 +495,12 @@
           "index": "⑤",
           "text": "공공보건의료지원단"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "보건의료원"
+      }
     }
   },
   {
@@ -461,7 +531,12 @@
           "index": "⑤",
           "text": "21일"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "10일"
+      }
     }
   },
   {
@@ -492,7 +567,12 @@
           "index": "⑤",
           "text": "관할 보건소장"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 2,
+        "option_label": "②",
+        "option_text": "식품의약품안전처장"
+      }
     }
   },
   {
@@ -523,7 +603,12 @@
           "index": "⑤",
           "text": "'갑'을 제외한 3명의 의사 중 1명을 마약류관리자로 둠"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 3,
+        "option_label": "③",
+        "option_text": "'A' 병원에 종사하는 약사를 마약류관리자로 둠"
+      }
     }
   },
   {
@@ -554,7 +639,12 @@
           "index": "⑤",
           "text": "환자의 진료기록 관련 사본을 교부하지 않음"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 1,
+        "option_label": "①",
+        "option_text": "다른 기관에 보고 없이 사본을 교부함"
+      }
     }
   },
   {
@@ -585,7 +675,12 @@
           "index": "⑤",
           "text": "정신건강의학과"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 4,
+        "option_label": "④",
+        "option_text": "마취통증의학과"
+      }
     }
   },
   {
@@ -616,7 +711,12 @@
           "index": "⑤",
           "text": "면허자격정지"
         }
-      ]
+      ],
+      "answer": {
+        "option_number": 5,
+        "option_label": "⑤",
+        "option_text": "면허자격정지"
+      }
     }
   }
 ]
