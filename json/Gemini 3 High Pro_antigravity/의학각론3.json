@@ -1,0 +1,222 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 1,
+          "chosen_index": "①",
+          "chosen_text": "항핵항체",
+          "reasoning": "젊은 여성의 관절통, 안면 발진(광과민성 의심), 구강 궤양, 단백뇨 등은 전신홍반루푸스(SLE)를 시사한다. 선별 검사로 항핵항체(ANA) 검사가 우선이다."
+        },
+        {
+          "question_number": 2,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "발열, 근육통 후 발생한 황달과 간효소 수치 상승, IgM anti-HAV 양성 소견은 급성 A형 간염이다. 대증 요법을 하며 경과 관찰하면 대부분 자연 회복된다."
+        },
+        {
+          "question_number": 3,
+          "chosen_index": "①",
+          "chosen_text": "전격간부전",
+          "reasoning": "건강보조식품 복용력(독성 간염 의심), 황달, 의식 변화(간성혼수), 퍼덕떨림 등은 급성 간부전(전격성 간부전)의 임상 양상이다."
+        },
+        {
+          "question_number": 13,
+          "chosen_index": "⑤",
+          "chosen_text": "단회뇨 알부민/크레아티닌 비",
+          "reasoning": "당뇨병 환자에서 당뇨병성 신장병증의 조기 발견을 위한 선별 검사로 단회뇨(Spot urine) 알부민/크레아티닌 비(ACR) 측정이 권장된다."
+        },
+        {
+          "question_number": 14,
+          "chosen_index": "①",
+          "chosen_text": "막신장병증",
+          "reasoning": "성인의 신증후군(부종, 심한 단백뇨, 저알부민혈증) 환자에서 항 Phospholipase A2 수용체(PLA2R) 항체 양성은 일차성 막성 신병증(Membranous Nephropathy)의 특이적인 소견이다."
+        },
+        {
+          "question_number": 15,
+          "chosen_index": "④",
+          "chosen_text": "용혈요독증후군",
+          "reasoning": "혈성 설사(E. coli O157:H7) 후 발생한 급성 신손상, 혈소판 감소, 미세혈관병성 용혈빈혈(분열적혈구)은 용혈요독증후군(HUS)의 전형적인 3징후이다."
+        },
+        {
+          "question_number": 16,
+          "chosen_index": "④",
+          "chosen_text": "신장도플러초음파",
+          "reasoning": "고령, 죽상경화증 위험인자, 갑작스러운 혈압 상승, 폐부종(Flash pulmonary edema), 복부 잡음은 신동맥 협착에 의한 이차성 고혈압을 시사한다. 선별 검사로 신장 도플러 초음파가 유용하다."
+        },
+        {
+          "question_number": 18,
+          "chosen_index": "②",
+          "chosen_text": "IgA신장병증",
+          "reasoning": "상기도 감염(인후통)과 동시에(12시간 내) 발생한 육안적 혈뇨(Synpharyngitic hematuria)는 IgA 신장병증의 특징이다. C3가 정상인 점도 PSGN(C3 감소)과 구별된다."
+        },
+        {
+          "question_number": 19,
+          "chosen_index": "①",
+          "chosen_text": "돼지풀",
+          "reasoning": "가을철(8~10월)에 악화되는 알레르기 비염 및 천식 증상은 잡초 꽃가루가 원인일 가능성이 높으며, 검사 결과 돼지풀(Ragweed) 특이 IgE가 가장 높게 측정되었다."
+        },
+        {
+          "question_number": 21,
+          "chosen_index": "⑤",
+          "chosen_text": "면역혈소판감소자반병",
+          "reasoning": "다른 혈구 수치는 정상이나 심한 혈소판 감소(5,000/mm³)와 출혈 증상(점상출혈, 월경과다)을 보이며, 간비종대가 없는 것으로 보아 면역혈소판감소자반병(ITP)이 의심된다."
+        },
+        {
+          "question_number": 22,
+          "chosen_index": "③",
+          "chosen_text": "신선냉동혈장 수혈",
+          "reasoning": "와파린 복용 환자에서 PT(INR 5.0) 연장과 출혈이 발생했으므로 와파린 독성이다. 즉각적인 지혈과 응고인자 보충을 위해 신선냉동혈장(FFP) 투여와 비타민 K 투여가 필요하다."
+        },
+        {
+          "question_number": 23,
+          "chosen_index": "④",
+          "chosen_text": "자가면역용혈빈혈",
+          "reasoning": "빈혈, 황달, 그물적혈구 증가, LDH 상승, 합토글로빈 감소 등 용혈 소견과 함께 직접항글로불린검사(Coombs test) 양성 소견은 자가면역용혈빈혈(AIHA)을 진단한다."
+        },
+        {
+          "question_number": 27,
+          "chosen_index": "⑤",
+          "chosen_text": "화학요법",
+          "reasoning": "삼중 음성(ER/PR/Her2 음성) 유방암이며 종양 크기가 1cm를 초과(1.8cm)하므로 재발 방지를 위해 보조 항암화학요법이 필수적이다. 유방보존술 후 방사선치료도 필요하지만, 전신 전이 예방을 위한 항암요법이 우선 고려된다."
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "⑤",
+          "chosen_text": "노르에피네프린",
+          "reasoning": "충분한 수액 공급에도 반응하지 않는 패혈성 쇼크에서 평균동맥압 유지를 위해 일차적으로 선택하는 승압제는 노르에피네프린이다."
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "임신 중 발견된 5cm 크기의 단순 낭종은 대부분 기능성 낭종(황체낭종 등)으로, 임신 14~16주경 자연 소실되는 경우가 많으므로 경과 관찰한다."
+        },
+        {
+          "question_number": 38,
+          "chosen_index": "⑤",
+          "chosen_text": "특발혈소판감소자반병",
+          "reasoning": "소아에서 발생한 급성 혈소판 감소성 자반증으로, 골수 검사에서 거대핵세포가 증가(말초 파괴 시사)되어 있으므로 ITP이다."
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "①",
+          "chosen_text": "영아연축",
+          "reasoning": "생후 6개월 영아, 잭나이프 양상의 반복적인 경련, 뇌파상 고부정뇌파(Hypsarrhythmia) 소견은 영아연축(West syndrome)의 특징이다."
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "④",
+          "chosen_text": "아편유사제",
+          "reasoning": "동공 산대, 하품, 눈물, 콧물, 근육통, 설사, 구역 등은 아편유사제(Opioid) 금단 증상의 전형적인 모습이다."
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "④",
+          "chosen_text": "아리피프라졸 경구투여",
+          "reasoning": "섬망 또는 치매 환자의 정신행동증상 조절이 필요하나, 심전도상 QTc가 500 msec로 연장되어 있다. 할로페리돌 등은 QTc 연장 위험이 크므로, 상대적으로 심장 부작용이 적은 아리피프라졸이 안전한 선택이다."
+        },
+        {
+          "question_number": 46,
+          "chosen_index": "③",
+          "chosen_text": "산소흡입",
+          "reasoning": "한쪽 눈 주위의 극심한 통증과 자율신경계 증상(충혈, 코막힘), 주기적 군집성 발생은 군발두통이다. 급성기 치료로 100% 산소 흡입이 효과적이다."
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "③",
+          "chosen_text": "소뇌경색증",
+          "reasoning": "고령, 고혈압 환자의 급성 어지럼과 소뇌 징후(운동실조, 거리조절이상)는 소뇌 경색을 강력히 시사한다. 초기 CT에서는 뇌경색이 보이지 않을 수 있다."
+        },
+        {
+          "question_number": 49,
+          "chosen_index": "④",
+          "chosen_text": "식사요법",
+          "reasoning": "임신 초기 당화혈색소가 6.5% 이상(7.3%)이므로 현성 당뇨병(Overt DM)으로 진단된다. 초기 치료는 식사 요법과 운동 요법이며, 조절되지 않을 경우 인슐린을 고려한다."
+        },
+        {
+          "question_number": 51,
+          "chosen_index": "①",
+          "chosen_text": "대뇌동맥류",
+          "reasoning": "상염색체 우성 다낭신장병(ADPKD) 환자는 두개내 동맥류(Berry aneurysm) 동반 위험이 높으므로 이에 대한 감시가 필요하다."
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "③",
+          "chosen_text": "벤자틴페니실린",
+          "reasoning": "증상이 없고 감염 시기를 알 수 없는 잠복 매독(Late latent syphilis 간주)의 치료는 벤자틴 페니실린 G 1주 간격 3회 근육 주사이다."
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "척수 손상으로 도뇨관을 유치 중인 환자에서 발열이나 전신 증상 없이 소변검사 이상(세균뇨, 농뇨)만 있는 무증상 세균뇨는 치료하지 않고 경과 관찰한다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "④",
+          "chosen_text": "엡스타인-바바이러스 캡시드항원 항체",
+          "reasoning": "발열, 인후통, 림프절 비대, 비정형 림프구 증가, 간효소 수치 상승은 전염성 단핵구증(Infectious Mononucleosis)을 시사하며, 원인인 EBV 감염 확인을 위해 항체 검사를 시행한다."
+        },
+        {
+          "question_number": 65,
+          "chosen_index": "⑤",
+          "chosen_text": "단백질보충제 중단",
+          "reasoning": "단백질 보충제 섭취 후 발생한 설사와 복통이며, 염증 표지자(CRP, 칼프로텍틴)가 정상이므로 보충제(유당 등)에 의한 불내성 가능성이 높다. 원인 물질 중단이 우선이다."
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "⑤",
+          "chosen_text": "글루코코티코이드",
+          "reasoning": "중년 여성의 황달, 간효소 상승, 고감마글로불린혈증(IgG 상승), 항핵항체(ANA) 양성 소견은 자가면역간염(Autoimmune Hepatitis)에 합당하다. 치료는 스테로이드(글루코코티코이드)이다."
+        },
+        {
+          "question_number": 71,
+          "chosen_index": "②",
+          "chosen_text": "어머니와 분리",
+          "reasoning": "망상을 가진 어머니와 밀접하게 지내면서 망상을 공유하게 된 공유정신병(Folie à deux)이다. 일차적 치료는 망상 제공자(어머니)와의 분리이다."
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "②",
+          "chosen_text": "메티마졸",
+          "reasoning": "갑상샘기능항진증(그레이브스병)에 동반된 저칼륨혈증성 주기성 마비이다. 근본적인 치료를 위해 항갑상샘제(메티마졸)를 투여하여 갑상샘 기능을 정상화해야 한다."
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "①",
+          "chosen_text": "둘록세틴(duloxetine)",
+          "reasoning": "절박성 요실금과 복압성 요실금이 동반된 혼합성 요실금 환자이다. 보기 중 요실금 치료제로 승인된 약물은 복압성 요실금에 효과적인 SNRI 계열의 둘록세틴이다."
+        },
+        {
+          "question_number": 79,
+          "chosen_index": "①",
+          "chosen_text": "저인분유",
+          "reasoning": "생후 1주 내 신생아에서 고인산혈증과 저칼슘혈증으로 인한 테타니(경련)가 발생했다. 인 함량이 높은 분유 섭취가 원인일 수 있으므로 저인분유로 교체한다."
+        }
+      ]
+    }
+  ]
+}

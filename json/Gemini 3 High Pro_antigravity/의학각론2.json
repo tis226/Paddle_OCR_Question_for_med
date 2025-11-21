@@ -1,0 +1,204 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 3,
+          "chosen_index": "④",
+          "chosen_text": "복부컴퓨터단층촬영",
+          "reasoning": "급성 췌장염이 의심되는 환자에서 진단을 확진하고 췌장 괴사 여부 등 중증도 및 합병증을 평가하기 위해 복부 CT가 가장 유용한 검사이다."
+        },
+        {
+          "question_number": 4,
+          "chosen_index": "③",
+          "chosen_text": "복부 초음파",
+          "reasoning": "기름진 음식 섭취 후 악화되는 우상복부 통증은 담석증(담도산통)을 시사한다. 담석 진단에 있어 복부 초음파가 일차적인 선별 검사이다."
+        },
+        {
+          "question_number": 8,
+          "chosen_index": "③",
+          "chosen_text": "레보타이록신",
+          "reasoning": "전신 부종, 변비, TSH 상승 및 Free T4 저하 소견은 일차성 갑상샘기능저하증을 나타낸다. 치료는 갑상샘호르몬제(레보타이록신) 투여이다."
+        },
+        {
+          "question_number": 9,
+          "chosen_index": "⑤",
+          "chosen_text": "생식샘자극호몬방출호몬 자극검사",
+          "reasoning": "8세 이전 유방 발달과 골연령 촉진이 있는 성조숙증 의심 환아이다. 기저 LH가 상승되어 있으나, 진성 성조숙증(중추성) 확진을 위해 GnRH 자극검사가 표준 진단법이다."
+        },
+        {
+          "question_number": 13,
+          "chosen_index": "⑤",
+          "chosen_text": "0.9% 식염수 정맥주사",
+          "reasoning": "체중의 10% 이상 감소와 저혈압(쇼크)을 동반한 심한 탈수 상태이다. 쇼크 교정을 위해 등장성 결정질 용액(0.9% 생리식염수)의 급속 정맥 투여가 우선이다."
+        },
+        {
+          "question_number": 17,
+          "chosen_index": "①",
+          "chosen_text": "파라콰",
+          "reasoning": "구강 점막의 궤양과 청록색 착색은 파라콰트(Paraquat) 중독의 특징적인 소견이다."
+        },
+        {
+          "question_number": 20,
+          "chosen_index": "④",
+          "chosen_text": "0.9% 식염수 정맥주사",
+          "reasoning": "패혈성 쇼크(저혈압) 상태이므로 초기 처치로 수액 소생술(Fluid resuscitation)이 가장 시급하다."
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "③",
+          "chosen_text": "암로디핀",
+          "reasoning": "고칼륨혈증(K 6.1)과 신기능 저하가 동반된 고혈압 환자이다. ACEi, ARB, 알도스테론 길항제는 고칼륨혈증을 악화시킬 수 있으므로 칼슘통로차단제(CCB)인 암로디핀이 안전한 선택이다."
+        },
+        {
+          "question_number": 32,
+          "chosen_index": "③",
+          "chosen_text": "에스트로젠 + 프로제스토젠",
+          "reasoning": "자궁절제술을 받았으나 자궁내막증 병력이 있는 경우, 에스트로겐 단독 요법은 잔존 자궁내막증 병변을 활성화시킬 위험이 있어 프로제스토젠을 병용하는 것이 권장된다."
+        },
+        {
+          "question_number": 36,
+          "chosen_index": "①",
+          "chosen_text": "기면증",
+          "reasoning": "주간 졸림증, 탈력발작(Cataplexy), 수면마비, 입면 환각, 그리고 수면다원검사상 짧은 렘수면 잠복기(SOREMP)는 기면증의 전형적인 소견이다."
+        },
+        {
+          "question_number": 37,
+          "chosen_index": "②",
+          "chosen_text": "항생제 정맥주사",
+          "reasoning": "제왕절개 후 발생한 발열, 복통, 악취 나는 질 분비물, 자궁 압통은 산후 자궁내막염을 시사한다. 광범위 항생제 치료가 필요하다."
+        },
+        {
+          "question_number": 39,
+          "chosen_index": "⑤",
+          "chosen_text": "123I-MIBG(metaiodobenzylguanidine) 스캔",
+          "reasoning": "갈색세포종이 생화학적으로 확진되었으나 복부 CT에서 종양이 발견되지 않은 경우, 부신 외 종양(Paraganglioma) 등을 찾기 위해 MIBG 스캔을 시행한다."
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "①",
+          "chosen_text": "근위 신세관산증",
+          "reasoning": "젠타마이신 사용력, 저칼륨혈증, 대사성 산증, 그리고 소변 검사상 이상 소견(Fanconi 증후군 시사)은 근위 세뇨관 손상에 의한 근위 신세관 산증(Type 2 RTA)을 시사한다."
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "①",
+          "chosen_text": "방광염",
+          "reasoning": "발열 없이 빈뇨, 배뇨통 등 하부 요로 증상만 있고 소변검사에서 농뇨와 세균뇨가 보이므로 급성 방광염이다."
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "①",
+          "chosen_text": "추적관찰",
+          "reasoning": "소변 임신반응검사 양성은 이미 임신 상태임을 의미하므로 응급피임약 등은 효과가 없다. 성폭행과 무관한 기임신 상태에 대한 상담 및 추적 관찰이 필요하다."
+        },
+        {
+          "question_number": 46,
+          "chosen_index": "①",
+          "chosen_text": "추적관찰",
+          "reasoning": "(입력 오류로 45번과 동일한 내용이 반복됨) 이미 임신된 상태이므로 응급피임약은 적응증이 되지 않는다."
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "③",
+          "chosen_text": "긴장이완요법",
+          "reasoning": "양측성의 조이는 듯한 두통, 구역/구토 없음, 근육 압통은 긴장형 두통의 특징이다. 약물 치료 외에 긴장이완요법 등의 비약물적 치료가 도움이 된다."
+        },
+        {
+          "question_number": 48,
+          "chosen_index": "⑤",
+          "chosen_text": "뇌 컴퓨터단층촬영",
+          "reasoning": "두부 외상 후 의식 소실(5초 이상)과 2회 이상의 구토가 있었으므로 뇌 CT 촬영의 적응증(PECARN 등)에 해당한다."
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "③",
+          "chosen_text": "오늘 두 알 복용 후 남은 약을 매일 한 알씩 복용",
+          "reasoning": "경구피임약을 하루 잊은 경우, 생각난 즉시 잊은 약을 복용(하루 2알 복용 가능)하고 나머지는 예정대로 복용한다."
+        },
+        {
+          "question_number": 52,
+          "chosen_index": "⑤",
+          "chosen_text": "생식샘제거",
+          "reasoning": "핵형이 45,X/46,XY인 혼합 생식샘 발생장애(Mixed gonadal dysgenesis) 환자는 Y 염색체 성분으로 인해 생식샘모세포종(Gonadoblastoma) 발생 위험이 높으므로 예방적 생식샘 제거술을 시행해야 한다."
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "⑤",
+          "chosen_text": "노르에피네프린 정맥주사",
+          "reasoning": "수액 공급에도 반응하지 않는 패혈성 쇼크에서는 혈관수축제(Vasopressor) 사용이 필요하며, 노르에피네프린이 일차 선택제이다."
+        },
+        {
+          "question_number": 56,
+          "chosen_index": "③",
+          "chosen_text": "수소날숨검사",
+          "reasoning": "당뇨병 환자에서 발생한 만성 설사와 복부 팽만은 당뇨병성 자율신경병증에 의한 소장 내 세균 과증식(SIBO) 가능성이 있다. 진단을 위해 수소날숨검사가 유용하다."
+        },
+        {
+          "question_number": 61,
+          "chosen_index": "②",
+          "chosen_text": "수마트립탄",
+          "reasoning": "일반 진통제에 반응하지 않는 중등도 이상의 편두통 급성기 치료에는 트립탄(Triptan) 제제가 효과적이다."
+        },
+        {
+          "question_number": 62,
+          "chosen_index": "③",
+          "chosen_text": "신체상태 평가",
+          "reasoning": "알코올 의존 환자 치료 시작 전, 금단 증상(진전섬망 등) 및 내과적 합병증(간질환 등) 위험을 파악하기 위해 신체 상태 평가가 우선되어야 한다."
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "③",
+          "chosen_text": "지속성애도장애",
+          "reasoning": "사별 후 12개월 이상(2년) 지나도 고인에 대한 강렬한 그리움과 집착, 정체성 혼란, 삶의 무의미함 등을 호소하므로 지속성 애도 장애(Prolonged Grief Disorder)에 해당한다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "⑤",
+          "chosen_text": "포도당과 아미노산 영양수액",
+          "reasoning": "극소저출생체중아(VLBW)의 생후 첫날 수액 요법으로는 불감 수분 손실을 고려한 포도당 투여와 조기 영양 공급을 위한 아미노산 투여가 권장된다. 전해질은 보통 이뇨기 이후에 추가한다."
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "①",
+          "chosen_text": "세픽심",
+          "reasoning": "급성 신우신염의 외래 치료에는 경구 Fluoroquinolone이나 3세대 Cephalosporin(Cefixime 등)이 권장된다."
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "④",
+          "chosen_text": "인슐린 과다투여",
+          "reasoning": "저혈당과 함께 인슐린 농도는 높으나 C-peptide가 낮은 소견은 외부에서 투여된 인슐린(Exogenous insulin)에 의한 저혈당을 시사한다."
+        },
+        {
+          "question_number": 80,
+          "chosen_index": "②",
+          "chosen_text": "나프록센",
+          "reasoning": "강직성 척추염의 일차 치료제는 비스테로이드성 소염진통제(NSAIDs)이다."
+        }
+      ]
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

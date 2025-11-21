@@ -1,0 +1,252 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 21,
+          "chosen_index": "③",
+          "chosen_text": "레보타이록신",
+          "reasoning": "그레이브스병으로 방사성요오드 치료 후 체중증가, 서맥(56회/분), 저체온(36.0℃), TSH 92.2 mIU/L(정상 0.34-4.25), 유리 T4 0.13 ng/dL(정상 0.7-1.24)로 갑상샘기능저하증이 발생했습니다. 레보타이록신으로 갑상샘호르몬을 보충해야 합니다."
+        },
+        {
+          "question_number": 22,
+          "chosen_index": "②",
+          "chosen_text": "신경성폭식증",
+          "reasoning": "반복적인 폭식과 구토(6개월간), 체중조절을 위한 의도적 구토, 정상 체중 유지(BMI 21.3), 자신에 대한 부정적 평가는 신경성폭식증의 전형적인 특징입니다. 신경성식욕부진증은 저체중이 특징입니다."
+        },
+        {
+          "question_number": 23,
+          "chosen_index": "④",
+          "chosen_text": "선택적 함구증",
+          "reasoning": "6세 여아가 유치원에서는 2개월간 전혀 말하지 않으나 집에서는 언니와 정상적으로 말하고 노는 것은 선택적 함구증(selective mutism)의 전형적인 소견입니다. 특정 사회적 상황에서만 말하지 못하는 것이 특징입니다."
+        },
+        {
+          "question_number": 25,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "담낭암이 점막에만 국한되어 있고(Tis 또는 T1a), 담낭관 절제면에 암세포가 없으며, 크기가 8 mm로 작은 조기 담낭암입니다. 담낭절제술만으로 충분하며 추가 치료 없이 경과관찰이 적절합니다."
+        },
+        {
+          "question_number": 26,
+          "chosen_index": "②",
+          "chosen_text": "체질성 성장지연",
+          "reasoning": "출생 시 정상 체중과 키, 24개월과 현재 모두 10-15백분위수로 일관되게 유지, 부모가 어릴 때 작았으나 현재는 정상 신장(50-75백분위수)인 것은 체질성 성장지연의 특징입니다. 성장속도는 정상이나 사춘기가 늦게 와서 최종 신장은 정상에 도달합니다."
+        },
+        {
+          "question_number": 27,
+          "chosen_index": "①",
+          "chosen_text": "갈비사이위팔신경(intercostobrachial nerve)",
+          "reasoning": "겨드랑림프절절제 후 위팔 안쪽 피부 감각 둔화와 통증은 갈비사이위팔신경(intercostobrachial nerve) 손상의 전형적인 증상입니다. 이 신경은 겨드랑 수술 시 흔히 손상되며 팔 안쪽 감각을 담당합니다."
+        },
+        {
+          "question_number": 30,
+          "chosen_index": "③",
+          "chosen_text": "뇌척수액검사",
+          "reasoning": "6개월 영아에서 발열, 구토, 경련, 의식저하, 백혈구 28,500/mm³, CRP 55 mg/L, ESR 75 mm/hr은 세균수막염을 강력히 시사합니다. 안저검사에서 유두부종이 없으므로 뇌척수액검사를 안전하게 시행할 수 있습니다."
+        },
+        {
+          "question_number": 31,
+          "chosen_index": "③",
+          "chosen_text": "C - 지방색전증(추정)",
+          "reasoning": "대퇴골 골절 수술 후 3일째 급성 호흡곤란과 청색증으로 사망한 경우, 지방색전증이 가장 가능성 높은 직접 사인입니다. (가)직접사인에 지방색전증, (나)원인에 대퇴골 골절, (다)원인에 교통사고를 기재해야 합니다."
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "⑤",
+          "chosen_text": "엠파글리플로진",
+          "reasoning": "SGLT2 억제제인 엠파글리플로진은 소변으로 포도당을 배설시켜 혈당을 낮추는 약물로, 체중감소가 흔한 부작용입니다. 소변 포도당(3+)이 이를 뒷받침하며, 3개월 전 심부전으로 시작한 약제와 시기가 일치합니다."
+        },
+        {
+          "question_number": 35,
+          "chosen_index": "③",
+          "chosen_text": "황열",
+          "reasoning": "브라질 아마존 정글 방문 예정으로 황열 백신이 필요합니다. 황열은 남미 열대지역에서 유행하며, 많은 국가에서 입국 시 황열 예방접종 증명서를 요구합니다. 뎅기와 지카는 백신이 제한적이고, 말라리아는 예방약을 복용합니다."
+        },
+        {
+          "question_number": 40,
+          "chosen_index": "③",
+          "chosen_text": "수두백신 접종",
+          "reasoning": "면역글로불린 치료 후 3개월이 경과했고, 현재 혈소판 수치가 정상(380,000/mm³)으로 회복되었으므로 수두백신 접종이 가능합니다. 일반적으로 면역글로불린 투여 후 3-11개월 후 생백신 접종을 권장합니다."
+        },
+        {
+          "question_number": 41,
+          "chosen_index": "④",
+          "chosen_text": "학대신고",
+          "reasoning": "자녀들의 부양 거부, 식사 제공 안 함, 필요한 의료서비스 거부는 노인학대(방임)에 해당합니다. 의사는 노인복지법에 따라 노인학대를 발견 시 즉시 신고할 의무가 있습니다."
+        },
+        {
+          "question_number": 42,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "칸디다가 검출되었으나 외음부 가려움이나 통증 등 증상이 없는 무증상 칸디다 집락화입니다. 증상이 없는 경우 치료가 필요 없으며 경과관찰이 적절합니다."
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "④",
+          "chosen_text": "비용혈발열반응",
+          "reasoning": "수혈 20분 후 발생한 오한, 떨림, 발열(38.6℃)이며 피부발진이나 가려움 없고, 혈압이 안정적인 것은 비용혈발열반응의 전형적인 소견입니다. 가장 흔한 수혈 부작용으로 공여자 백혈구에 대한 항체 반응입니다."
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "①",
+          "chosen_text": "핵형검사",
+          "reasoning": "18세 원발무월경, 2차 성징 부재(태너기 I), 저신장(148 cm), 높은 FSH(48.0), 낮은 에스트라다이올(8.0)은 성선기능저하증을 시사합니다. 터너증후군 등 염색체 이상 확인을 위해 핵형검사가 우선 필요합니다."
+        },
+        {
+          "question_number": 49,
+          "chosen_index": "③",
+          "chosen_text": "돌발심방세동",
+          "reasoning": "불규칙하고 빠른 심박동, 술 후 악화, 빈번한 발작(하루 4-5회)은 돌발심방세동을 시사합니다. 심전도에서 불규칙한 RR 간격과 P파 부재가 특징적입니다."
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "⑤",
+          "chosen_text": "세프트라이악손",
+          "reasoning": "간경화 환자의 복수에서 백혈구 100/mm³(중성구 70%)로 자발세균복막염이 의심됩니다. 복수 알부민 0.7 g/dL로 낮고, 혈청-복수 알부민 차이(SAAG) 1.5 g/dL로 문맥고혈압성 복수입니다. 세프트라이악손으로 자발세균복막염을 치료해야 합니다."
+        },
+        {
+          "question_number": 55,
+          "chosen_index": "①",
+          "chosen_text": "추적관찰",
+          "reasoning": "HPV 고위험군 31형 양성이나 세포검사는 반응성세포변화, 조직검사는 만성자궁경부염으로 전암병변이나 암이 아닙니다. 1년 후 재검사로 추적관찰이 적절합니다."
+        },
+        {
+          "question_number": 59,
+          "chosen_index": "③",
+          "chosen_text": "치료군과 대조군 배정 알림",
+          "reasoning": "무작위 배정 임상시험에서 참여자에게 어느 군에 배정되는지 사전에 알려주면 맹검이 깨지고, 위약효과나 기대효과로 인한 비뚤림이 발생합니다. 이는 연구의 중요한 제한점입니다."
+        },
+        {
+          "question_number": 60,
+          "chosen_index": "①",
+          "chosen_text": "주석을 사용하는 땜질 업무",
+          "reasoning": "협심증 환자는 일산화탄소(제철공장), 나이트로글리세린(내성 발생), 추운 환경(혈관수축), 야간업무(스트레스)를 피해야 합니다. 주석을 사용하는 땜질 업무가 상대적으로 안전합니다."
+        },
+        {
+          "question_number": 61,
+          "chosen_index": "④",
+          "chosen_text": "화학적 질식제",
+          "reasoning": "화재현장에서 두통, 어지럼, 구역과 함께 일산화탄소헤모글로빈 29%, 대사산증(pH 7.32, HCO3- 18.4)은 일산화탄소 중독을 시사합니다. 일산화탄소는 화학적 질식제로 분류됩니다."
+        },
+        {
+          "question_number": 62,
+          "chosen_index": "②",
+          "chosen_text": "발병률",
+          "reasoning": "특정 기간(12월 2일-18일) 동안 위험인구(500명) 중 새로 발생한 환자 수(75명)를 측정하는 것은 발병률(incidence rate)입니다. 유행 규모 파악에 가장 적절한 지표입니다."
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "③",
+          "chosen_text": "디디티",
+          "reasoning": "DDT(디디티)는 스톡홀름 협약에서 규제하는 대표적인 잔류성 유기오염물질(POPs)입니다. 환경에서 잘 분해되지 않고 생물농축되며 장거리 이동합니다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "②",
+          "chosen_text": "연관성의 강도",
+          "reasoning": "중등도 신체활동 시간이 증가할수록 질환 발생률이 감소하는 양-반응 관계(dose-response relationship)가 관찰되며, 이는 연관성의 강도를 보여줍니다. 10분 미만 대비 30분 이상에서 60%로 감소했습니다."
+        },
+        {
+          "question_number": 65,
+          "chosen_index": "②",
+          "chosen_text": "우선순위 결정",
+          "reasoning": "브라이언트 결정기준(문제의 크기, 심각도, 해결 가능성, 주민 관심도)을 적용하여 건강문제를 평가하고 점수화하는 것은 보건사업 기획의 우선순위 결정 단계입니다."
+        },
+        {
+          "question_number": 66,
+          "chosen_index": "③",
+          "chosen_text": "통합",
+          "reasoning": "주거, 생활, 복지서비스부터 보건의료서비스까지 폭넓게 제공하는 지역사회 통합돌봄(community care)은 의료의 질 구성요소 중 '통합(integration)'을 우선적으로 고려해야 합니다."
+        },
+        {
+          "question_number": 67,
+          "chosen_index": "④",
+          "chosen_text": "질소산화물",
+          "reasoning": "내연기관 자동차 배기가스로 인한 호흡기질환 증가, 대로변 거주자에게 더 많이 발생, 천식발작 증가는 질소산화물(NOx)의 건강영향을 시사합니다. 자동차 배기가스의 주요 오염물질입니다."
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "④",
+          "chosen_text": "포괄하는 인구",
+          "reasoning": "1977년 500인 이상 사업장에서 시작하여 1989년 전 국민으로 확대된 것은 보편적 의료보장의 '포괄하는 인구(population coverage)' 확대 과정입니다."
+        },
+        {
+          "question_number": 69,
+          "chosen_index": "④",
+          "chosen_text": "후향코호트연구",
+          "reasoning": "2020년에 1990-2015년 과거 자료를 이용하여 분진 노출 여부에 따라 집단을 나누고 피부병 발생률을 비교한 것은 후향코호트연구(retrospective cohort study)입니다."
+        },
+        {
+          "question_number": 70,
+          "chosen_index": "①",
+          "chosen_text": "숙주 관리",
+          "reasoning": "RSV 단클론항체를 고위험 영아에게 투여하여 수동면역을 제공하는 것은 숙주의 면역력을 높여 감염을 예방하는 숙주 관리 방법입니다."
+        },
+        {
+          "question_number": 71,
+          "chosen_index": "②",
+          "chosen_text": "안전관리",
+          "reasoning": "안전과 건강이 경영의 우선목표가 아니고, 산업재해 예방 매뉴얼이 부실하며, 아차사고가 자주 발생하는 것은 다수요인 이론에서 '안전관리' 요인의 문제를 나타냅니다."
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "④",
+          "chosen_text": "계획된 행동이론",
+          "reasoning": "흡연 충동 상황 확인, 대처방안 준비, 자신감 향상을 통한 통제행위 조절능력 강화는 계획된 행동이론(Theory of Planned Behavior)의 지각된 행동통제(perceived behavioral control) 개념을 적용한 것입니다."
+        },
+        {
+          "question_number": 74,
+          "chosen_index": "③",
+          "chosen_text": "사회적 건강",
+          "reasoning": "장애인의 학습권 보장을 위한 시설 설치는 사회적 환경을 개선하여 사회적 안녕(social well-being)을 증진시키는 것으로, WHO가 정의한 건강 개념 중 '사회적 건강'에 해당합니다."
+        },
+        {
+          "question_number": 75,
+          "chosen_index": "⑤",
+          "chosen_text": "92.1 %",
+          "reasoning": "음성 예측도 = 진음성/(진음성+위음성) = (160-20)/(160-20+20) = 147/160 = 92.1%. 효소 농도가 정상인 160명 중 간암이 발생하지 않은 사람이 147명입니다."
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "⑤",
+          "chosen_text": "자율성 존중과 해악금지",
+          "reasoning": "임신 20주 정상 태아의 인공중절 요청 시, 임신부의 자율성 존중과 태아에 대한 해악금지 원칙이 충돌합니다. 의사는 이 두 윤리 원칙을 균형있게 고려해야 합니다."
+        },
+        {
+          "question_number": 78,
+          "chosen_index": "④",
+          "chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함",
+          "reasoning": "13세 환자는 의학적 결정에 참여할 수 있는 나이이므로, 법정대리인인 어머니의 동의와 함께 환자 본인에게도 설명하고 동의(assent)를 구하는 것이 적절합니다."
+        },
+        {
+          "question_number": 79,
+          "chosen_index": "⑤",
+          "chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함",
+          "reasoning": "16세 미성년자이지만 의료정보 공개에 대해 의사결정 능력이 있으므로, 경찰의 요청에 대해 환자에게 알리고 환자의 동의를 구하는 것이 환자의 자율성과 비밀보장 원칙을 존중하는 적절한 조치입니다."
+        }
+      ]
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

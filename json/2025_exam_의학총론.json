@@ -1,0 +1,232 @@
+{
+"results": [
+{
+"subject": "의학총론",
+"year": 2025,
+"answers": [
+{
+"question_number": 21,
+"chosen_index": "③",
+"chosen_text": "레보타이록신",
+"reasoning": "방사성요오드 치료 후 TSH가 매우 높고 유리 T4가 낮아 명백한 갑상샘기능저하증이므로 레보타이록신 보충이 필요합니다."
+},
+{
+"question_number": 22,
+"chosen_index": "②",
+"chosen_text": "신경성폭식증",
+"reasoning": "폭식 후 체중 증가에 대한 걱정으로 반복적인 자가 유발 구토가 있으며 체중은 정상 범위라 신경성 폭식증에 해당합니다."
+},
+{
+"question_number": 23,
+"chosen_index": "④",
+"chosen_text": "선택적 함구증",
+"reasoning": "집에서는 잘 말하지만 유치원에서는 말을 하지 않는 상황 의존적 함구로 선택적 함구증에 해당합니다."
+},
+{
+"question_number": 25,
+"chosen_index": "①",
+"chosen_text": "경과관찰",
+"reasoning": "점막층에 국한된 작은 T1a 담낭암(고분화, 바닥부, 절제연 음성)으로 단순 담낭절제만으로 충분하며 추가 수술 없이 추적관찰합니다."
+},
+{
+"question_number": 26,
+"chosen_index": "②",
+"chosen_text": "체질성 성장지연",
+"reasoning": "출생 시 정상, 이후 10~15백분위수 선을 지속적으로 유지하고 부모도 어릴 때 키가 작았다가 후에 컸다는 병력이 있어 체질성 성장지연 양상입니다."
+},
+{
+"question_number": 27,
+"chosen_index": "①",
+"chosen_text": "갈비사이위팔신경(intercostobrachial nerve)",
+"reasoning": "겨드랑 림프절 절제 후 위팔 안쪽의 감각 저하가 있으나 운동은 정상이므로 주로 감각을 담당하는 갈비사이위팔신경 손상 소견입니다."
+},
+{
+"question_number": 30,
+"chosen_index": "③",
+"chosen_text": "뇌척수액검사",
+"reasoning": "고열, 심한 염증반응, 의식 저하와 경련을 보이는 6개월 영아로 세균성 뇌수막염이 강하게 의심되어 시급히 뇌척수액검사가 필요합니다."
+},
+{
+"question_number": 31,
+"chosen_index": "②",
+"chosen_text": "B - 오른쪽 대퇴골 골절",
+"reasoning": "직접사인(A)은 지방색전증/폐색전증, 그 원인(B)은 오른쪽 대퇴골 골절, 그 아래 원인(C)이 교통사고가 되므로 B에 ‘오른쪽 대퇴골 골절’을 쓰는 것이 맞습니다."
+},
+{
+"question_number": 34,
+"chosen_index": "⑤",
+"chosen_text": "엠파글리플로진",
+"reasoning": "SGLT2 억제제인 엠파글리플로진은 포도당뇨(소변 포도당 3+)와 체중 감소를 유발하는 대표 약제입니다."
+},
+{
+"question_number": 35,
+"chosen_index": "③",
+"chosen_text": "황열",
+"reasoning": "브라질 아마존 정글 방문 시 필수적으로 고려해야 하는 예방접종은 황열 백신입니다."
+},
+{
+"question_number": 40,
+"chosen_index": "①",
+"chosen_text": "접종 연기",
+"reasoning": "3개월 전 고용량 면역글로불린 치료를 받아 생백신인 수두 백신의 효과가 떨어질 수 있으므로 최소 11개월 정도 접종을 연기합니다."
+},
+{
+"question_number": 41,
+"chosen_index": "④",
+"chosen_text": "학대신고",
+"reasoning": "부양 거부, 방임으로 노인의 기본적인 생존 욕구가 충족되지 않는 명백한 노인학대로, 의사는 우선적으로 학대 신고 의무를 이행해야 합니다."
+},
+{
+"question_number": 42,
+"chosen_index": "①",
+"chosen_text": "경과관찰",
+"reasoning": "칸디다 양성이지만 외음부 가려움, 동통 등의 증상이 없고 세포검사도 반응성 변화뿐이므로 치료 없이 경과 관찰합니다."
+},
+{
+"question_number": 45,
+"chosen_index": "④",
+"chosen_text": "비용혈발열반응",
+"reasoning": "수혈 시작 20분 후 오한과 발열만 있고 발진, 저혈압, 흉통·요통이 없어 흔한 비용혈 발열성 수혈반응에 해당합니다."
+},
+{
+"question_number": 47,
+"chosen_index": "①",
+"chosen_text": "핵형검사",
+"reasoning": "키가 작고 2차 성징이 없으며 FSH, LH가 매우 높은 원발성 난소기능부전 양상으로, 터너 증후군 등 성염색체 이상을 확인하기 위해 핵형검사가 필요합니다."
+},
+{
+"question_number": 49,
+"chosen_index": "③",
+"chosen_text": "돌발심방세동",
+"reasoning": "술 후 악화되는 갑작스런 두근거림, 불규칙·빠른 맥은 ‘holiday heart’로 알려진 돌발 심방세동 소견에 부합합니다."
+},
+{
+"question_number": 50,
+"chosen_index": "③",
+"chosen_text": "테를리프레신",
+"reasoning": "B형 간경변, 고빌리루빈혈증, 저알부민혈증과 함께 신기능 악화, FENa 0.5%, 신장초음파 정상으로 간신증후군에 합당하며, 알부민과 함께 테를리프레신 투여가 표준 치료입니다."
+},
+{
+"question_number": 55,
+"chosen_index": "①",
+"chosen_text": "추적관찰",
+"reasoning": "고위험 HPV 31 양성이지만 세포검사는 반응성 변화, 질확대경생검은 만성 자궁경부염으로 고도 이상 소견이 없어 주기적인 추적관찰이 적절합니다."
+},
+{
+"question_number": 59,
+"chosen_index": "③",
+"chosen_text": "치료군과 대조군 배정 알림",
+"reasoning": "무작위 배정 임상시험에서 사전에 어느 군에 배정될지 알려주는 것은 눈가림을 깨뜨려 성과 평가에 편향을 초래하는 중요한 제한점입니다."
+},
+{
+"question_number": 60,
+"chosen_index": "①",
+"chosen_text": "주석을 사용하는 땀질 업무",
+"reasoning": "협심증 환자에게 일산화탄소 노출, 심한 추위, 교대·야간근무, 니트로글리세린 노출은 위험하므로 비교적 부담이 적은 일반 땜질 업무가 가장 안전합니다."
+},
+{
+"question_number": 61,
+"chosen_index": "④",
+"chosen_text": "화학적 질식제",
+"reasoning": "화재현장 노출 후 카복시헤모글로빈 증가(29%)와 증상은 일산화탄소 중독으로, CO는 혈색소와 결합해 산소 운반을 방해하는 ‘화학적 질식제’입니다."
+},
+{
+"question_number": 62,
+"chosen_index": "②",
+"chosen_text": "발병률",
+"reasoning": "폐쇄된 집단(중학교)에서 일정 기간 동안 새로 발생한 인플루엔자 환자의 비율로 유행 규모를 나타내는 지표는 발병률(attack rate)입니다."
+},
+{
+"question_number": 63,
+"chosen_index": "③",
+"chosen_text": "디디티",
+"reasoning": "잔류성 유기오염물질로서 전 세계적으로 생산·사용이 제한된 대표적인 물질이 DDT입니다."
+},
+{
+"question_number": 64,
+"chosen_index": "⑤",
+"chosen_text": "생물학적 설명 가능성",
+"reasoning": "신체활동 시간이 늘어날수록 질환 발생률이 단계적으로 감소하는 결과는 ‘신체활동이 질환을 예방한다’는 생물학적 기전과 잘 부합해 생물학적 설명 가능성을 뒷받침합니다."
+},
+{
+"question_number": 65,
+"chosen_index": "②",
+"chosen_text": "우선순위 결정",
+"reasoning": "브라이언트 결정기준(문제의 크기, 심각도, 해결 가능성, 주민 관심도)을 활용해 여러 건강문제의 점수를 매기는 과정은 보건문제의 우선순위를 결정하는 단계입니다."
+},
+{
+"question_number": 66,
+"chosen_index": "③",
+"chosen_text": "통합",
+"reasoning": "주거·복지·의료·간호 서비스를 연계해 고령자와 장애인을 지원하는 사업의 핵심은 다양한 서비스의 ‘통합’ 제공이므로, 의료의 질 요소 중 통합성이 가장 중요합니다."
+},
+{
+"question_number": 67,
+"chosen_index": "④",
+"chosen_text": "질소산화물",
+"reasoning": "내연기관 자동차 배기가스에서 나오는 주요 오염물질 중 천식 등 호흡기 질환 악화와 밀접한 관련이 있는 것은 질소산화물(NO₂ 등)입니다."
+},
+{
+"question_number": 68,
+"chosen_index": "④",
+"chosen_text": "포괄하는 인구",
+"reasoning": "의료보험 적용 대상을 500인 사업장 → 300인 사업장·공무원 → 농어촌·도시 지역으로 단계적으로 확대해 온 것은 보편적 의료보장의 ‘포괄하는 인구’ 측면의 확대입니다."
+},
+{
+"question_number": 69,
+"chosen_index": "④",
+"chosen_text": "후향코호트연구",
+"reasoning": "이미 존재하는 1990~2015년 건강검진 자료를 바탕으로 분진 노출 여부에 따라 피부병 발생률을 사후적으로 비교했으므로 후향(cohort) 코호트 연구입니다."
+},
+{
+"question_number": 70,
+"chosen_index": "①",
+"chosen_text": "숙주 관리",
+"reasoning": "RSV 단클론항체 주사는 고위험 영아 숙주에게 면역을 부여하는 방법으로, 감염병 관리 중 숙주 관리(수동 면역)에 해당합니다."
+},
+{
+"question_number": 71,
+"chosen_index": "②",
+"chosen_text": "안전관리",
+"reasoning": "경영진의 안전 우선순위 부재, 예방 매뉴얼 부실, 잦은 아차사고 등은 다수요인 이론에서 ‘안전관리’ 실패에 해당하는 상위 요인입니다."
+},
+{
+"question_number": 72,
+"chosen_index": "④",
+"chosen_text": "계획된 행동이론",
+"reasoning": "흡연 충동 상황을 파악하고, 대처방안을 준비해 자기 통제에 대한 자신감(지각된 행위통제)을 높이는 상담은 계획된 행동이론(Theory of Planned Behavior)에 기반합니다."
+},
+{
+"question_number": 74,
+"chosen_index": "③",
+"chosen_text": "사회적 건강",
+"reasoning": "장애인의 학습권을 보장하기 위해 물리적 접근성을 개선하는 조치는 사회적 참여와 역할 수행을 돕는 것으로 건강의 사회적 측면을 반영합니다."
+},
+{
+"question_number": 75,
+"chosen_index": "④",
+"chosen_text": "87.5 %",
+"reasoning": "음성(정상치) 160명 중 20명이 간암, 140명은 비발생이므로 음성 예측도 = 140 / (140+20) = 140/160 = 87.5%입니다."
+},
+{
+"question_number": 77,
+"chosen_index": "⑤",
+"chosen_text": "자율성 존중과 해악금지",
+"reasoning": "20주 정상 태아의 인공중절 요구 상황에서는 임신부의 자율성 존중과 태아 및 임신부에 대한 해를 피하려는 해악금지 원칙이 핵심적으로 충돌합니다."
+},
+{
+"question_number": 78,
+"chosen_index": "④",
+"chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함",
+"reasoning": "13세 미성년자는 법적 대리인 동의가 필요하지만, 이해 능력이 있어 의사의 설명을 듣고 동의(assent)를 표할 권리도 있으므로 환자에게도 설명하고 동의를 구해야 합니다."
+},
+{
+"question_number": 79,
+"chosen_index": "⑤",
+"chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함",
+"reasoning": "자상 환자의 진료기록은 비밀 유지 대상이며, 법적 신고 의무 상황이 아니라면 경찰에 제공하려면 먼저 환자에게 상황을 알리고 동의를 받아야 합니다."
+}
+]
+}
+]
+}

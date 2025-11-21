@@ -1,0 +1,252 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 21,
+          "chosen_index": "③",
+          "chosen_text": "레보타이록신",
+          "reasoning": "방사성요오드 치료 후 발생한 갑상샘기능저하증(TSH 상승, fT4 저하)이므로 갑상샘호르몬제(레보타이록신) 보충이 필요하다."
+        },
+        {
+          "question_number": 22,
+          "chosen_index": "②",
+          "chosen_text": "신경성폭식증",
+          "reasoning": "반복적인 폭식과 보상행동(구토)을 보이며, 체중이 정상 범위(BMI 약 21)에 속하므로 신경성 식욕부진증보다는 신경성 폭식증(Bulimia Nervosa)에 해당한다."
+        },
+        {
+          "question_number": 23,
+          "chosen_index": "④",
+          "chosen_text": "선택적 함구증",
+          "reasoning": "집에서는 말을 잘 하지만 유치원 등 특정 사회적 상황에서 말을 하지 못하는 증상이 1개월 이상 지속되므로 선택적 함구증이다."
+        },
+        {
+          "question_number": 25,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "담낭암이 점막층(Mucosa, T1a)에 국한되어 있고 담낭관 절제면이 음성이므로, 이미 시행한 담낭절제술만으로 치료가 충분하다."
+        },
+        {
+          "question_number": 26,
+          "chosen_index": "②",
+          "chosen_text": "체질성 성장지연",
+          "reasoning": "현재 키가 작지만 성장 속도는 정상 범위 내에서 유지되고 있고, 부모님도 늦게 컸다는 가족력(성장 지연)이 있으므로 체질성 성장지연(CDGP)일 가능성이 높다."
+        },
+        {
+          "question_number": 27,
+          "chosen_index": "①",
+          "chosen_text": "갈비사이위팔신경(intercostobrachial nerve)",
+          "reasoning": "겨드랑 림프절 절제술 후 발생한 위팔 안쪽의 감각 이상과 통증은 갈비사이위팔신경 손상의 전형적인 증상이다."
+        },
+        {
+          "question_number": 30,
+          "chosen_index": "③",
+          "chosen_text": "뇌척수액검사",
+          "reasoning": "발열, 구토, 경련, 의식 저하를 보이는 영아에서 세균성 수막염을 감별하기 위해 뇌척수액 검사가 필수적이다."
+        },
+        {
+          "question_number": 31,
+          "chosen_index": "②",
+          "chosen_text": "B - 오른쪽 대퇴골 골절",
+          "reasoning": "사망진단서 작성 시 (가) 직접사인: 지방색전증(추정), (나) (가)의 원인: 대퇴골 골절, (다) (나)의 원인: 보행자 교통사고 순서로 기재한다. 따라서 B는 대퇴골 골절이 적절하다."
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "⑤",
+          "chosen_text": "엠파글리플로진",
+          "reasoning": "SGLT2 억제제인 엠파글리플로진은 소변으로 포도당을 배출시켜 체중 감소를 유발할 수 있다. 소변 검사에서 포도당 양성 소견이 이를 뒷받침한다."
+        },
+        {
+          "question_number": 35,
+          "chosen_index": "③",
+          "chosen_text": "황열",
+          "reasoning": "브라질 아마존 지역은 황열 위험 지역이므로 방문 전 황열 백신 접종이 권고된다."
+        },
+        {
+          "question_number": 40,
+          "chosen_index": "①",
+          "chosen_text": "접종 연기",
+          "reasoning": "고용량 면역글로불린 치료를 받은 경우, 수두 백신과 같은 생백신은 항체의 간섭 효과 때문에 11개월 정도 접종을 연기해야 한다."
+        },
+        {
+          "question_number": 41,
+          "chosen_index": "④",
+          "chosen_text": "학대신고",
+          "reasoning": "자녀가 부양 의무를 거부하고 방임하여 노인의 건강을 해치고 있으므로 노인 학대(방임)에 해당하며, 의사는 이를 신고할 의무가 있다."
+        },
+        {
+          "question_number": 42,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "칸디다 질염은 항진균제로 치료해야 하나, 제시된 보기(항생제들) 중에는 적절한 치료제가 없다. 증상이 경미하거나 보기에 적절한 약이 없을 때 차선책으로 경과 관찰을 선택한다."
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "④",
+          "chosen_text": "비용혈발열반응",
+          "reasoning": "수혈 중 발생한 발열과 오한 외에 용혈을 시사하는 혈압 저하, 혈뇨 등의 증상이 없으므로 비용혈성 발열 반응(FNHTR)일 가능성이 가장 높다."
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "①",
+          "chosen_text": "핵형검사",
+          "reasoning": "일차성 무월경 환자에서 FSH가 높고 자궁이 작으며 난소가 보이지 않는 경우(난소 부전), 터너 증후군 등의 염색체 이상을 확인하기 위해 핵형 검사를 시행해야 한다."
+        },
+        {
+          "question_number": 49,
+          "chosen_index": "③",
+          "chosen_text": "돌발심방세동",
+          "reasoning": "음주 후 발생한 두근거림(Holiday heart syndrome)과 맥박이 불규칙한 소견은 심방세동을 시사한다."
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "③",
+          "chosen_text": "테를리프레신",
+          "reasoning": "간경변증 환자에서 발생한 급성 신손상(Cr 상승)으로 간신증후군(Hepatorenal syndrome)이 의심된다. 치료로 알부민과 함께 혈관수축제인 테를리프레신을 투여한다."
+        },
+        {
+          "question_number": 55,
+          "chosen_index": "①",
+          "chosen_text": "추적관찰",
+          "reasoning": "자궁경부 미란과 만성 자궁경부염 소견이 있으나 세포진 검사에서 이형성증이 없고 반응성 변화만 보이므로 특별한 치료 없이 정기적인 추적 관찰을 한다."
+        },
+        {
+          "question_number": 59,
+          "chosen_index": "③",
+          "chosen_text": "치료군과 대조군 배정 알림",
+          "reasoning": "연구 대상자에게 배정 내용을 미리 알리는 것(Open label)은 결과 보고나 증상 호전에 편향(Bias)을 줄 수 있는 연구 설계상의 제한점이다."
+        },
+        {
+          "question_number": 60,
+          "chosen_index": "①",
+          "chosen_text": "주석을 사용하는 땀질 업무",
+          "reasoning": "협심증 환자는 추위, 심한 육체적 스트레스, 일산화탄소, 질산염(폭약) 노출 등을 피해야 한다. 보기 중에서는 주석 땜질 업무가 상대적으로 심혈관 부담이 적다."
+        },
+        {
+          "question_number": 61,
+          "chosen_index": "④",
+          "chosen_text": "화학적 질식제",
+          "reasoning": "일산화탄소(CO)는 헤모글로빈과 결합하여 산소 운반을 방해하므로 화학적 질식제로 분류된다."
+        },
+        {
+          "question_number": 62,
+          "chosen_index": "②",
+          "chosen_text": "발병률",
+          "reasoning": "제한된 기간 동안 특정 집단 내에서 질병이 발생한 비율을 의미하므로 유행 규모 파악에는 발병률(Attack rate)이 적절하다."
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "③",
+          "chosen_text": "디디티",
+          "reasoning": "스톡홀름 협약은 잔류성 유기오염물질(POPs)을 규제하며, DDT는 그 대상 물질 중 하나이다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "②",
+          "chosen_text": "연관성의 강도",
+          "reasoning": "운동 시간이 늘어날수록 질병 발생률이 뚜렷하게 감소하는 양상(양-반응 관계)을 보이며, 이는 연관성의 강도(또는 생물학적 구배)를 지지하는 근거이다. 보기 중에서는 연관성의 강도가 가장 적절하다."
+        },
+        {
+          "question_number": 65,
+          "chosen_index": "②",
+          "chosen_text": "우선순위 결정",
+          "reasoning": "브라이언트(Bryant) 결정 기준 등을 사용하여 건강 문제들의 점수를 매기고 순위를 정하는 과정은 보건사업 기획의 우선순위 결정 단계이다."
+        },
+        {
+          "question_number": 66,
+          "chosen_index": "③",
+          "chosen_text": "통합",
+          "reasoning": "주거, 복지, 의료 서비스를 연계하여 포괄적으로 제공하는 커뮤니티 케어(AIP) 사업의 핵심적인 질적 요소는 서비스의 통합성(Integration)이다."
+        },
+        {
+          "question_number": 67,
+          "chosen_index": "④",
+          "chosen_text": "질소산화물",
+          "reasoning": "자동차 배기가스에서 배출되어 호흡기 질환과 천식을 유발하는 대표적인 대기 오염 물질은 질소산화물(NOx)이다."
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "④",
+          "chosen_text": "포괄하는 인구",
+          "reasoning": "건강보험 적용 대상을 사업장 근로자에서 공무원, 자영업자 등으로 점차 확대한 과정은 인구 집단의 포괄성(Population coverage)을 확대한 것이다."
+        },
+        {
+          "question_number": 69,
+          "chosen_index": "④",
+          "chosen_text": "후향코호트연구",
+          "reasoning": "과거(1990년)의 노출 정보를 바탕으로 현재(2015년)까지의 질병 발생 여부를 추적 조사한 연구이므로 후향적 코호트 연구이다."
+        },
+        {
+          "question_number": 70,
+          "chosen_index": "①",
+          "chosen_text": "숙주 관리",
+          "reasoning": "예방접종이나 항체 투여를 통해 개인(숙주)의 면역력을 높여 감염을 예방하는 것은 숙주 관리(Host management)에 해당한다."
+        },
+        {
+          "question_number": 71,
+          "chosen_index": "②",
+          "chosen_text": "안전관리",
+          "reasoning": "경영진의 안전 의식 부재, 매뉴얼 미비 등은 관리적 요인(Management)의 결함에 해당한다."
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "④",
+          "chosen_text": "계획된 행동이론",
+          "reasoning": "자신감(자기효능감)과 통제 능력을 높여 행동 변화를 유도하는 상담 방식은 계획된 행동이론(TPB)의 인지된 행동 통제(Perceived Behavioral Control) 개념을 적용한 것이다."
+        },
+        {
+          "question_number": 74,
+          "chosen_index": "③",
+          "chosen_text": "사회적 건강",
+          "reasoning": "장애인이 사회 구성원으로서 교육받고 활동할 수 있도록 환경을 조성하는 것은 사회적 안녕(Social well-being) 또는 사회적 건강을 보장하는 것이다."
+        },
+        {
+          "question_number": 75,
+          "chosen_index": "④",
+          "chosen_text": "87.5 %",
+          "reasoning": "음성예측도(NPV) = 진음성 / (진음성 + 위음성) = 140 / (140 + 20) = 140/160 = 0.875 (87.5%)."
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "⑤",
+          "chosen_text": "자율성 존중과 해악금지",
+          "reasoning": "임신 중절 요청은 산모의 자기결정권(자율성 존중)과 태아의 생명 보호 및 산모에 대한 잠재적 위험(해악 금지) 사이의 윤리적 갈등을 포함한다."
+        },
+        {
+          "question_number": 78,
+          "chosen_index": "④",
+          "chosen_text": "어머니에게 설명한 대로 환자에게 다시 설명하고 동의를 구함",
+          "reasoning": "13세 환자는 자신의 질병과 치료에 대해 이해할 능력이 있으므로, 법정 대리인의 동의 외에도 환자 본인의 승낙(Assent)을 구하는 것이 윤리적으로 적절하다."
+        },
+        {
+          "question_number": 79,
+          "chosen_index": "⑤",
+          "chosen_text": "환자에게 상황을 알리고 환자의 동의를 구함",
+          "reasoning": "환자의 진료 기록은 비밀 유지가 원칙이며, 영장 없는 경찰의 요청에 응할 의무는 없다. 환자에게 상황을 설명하고 동의 여부를 확인해야 한다."
+        }
+      ]
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}

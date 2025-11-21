@@ -1,0 +1,222 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론2",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론3",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 1,
+          "chosen_index": "①",
+          "chosen_text": "항핵항체",
+          "reasoning": "젊은 여성에서 관절통, 얼굴 붉은 반점, 무통성 구강궤양, 단백뇨(3+), 혈뇨 소견은 전신홍반루푸스를 강력히 시사합니다. 항핵항체(ANA)는 루푸스 선별검사로 가장 먼저 시행해야 합니다."
+        },
+        {
+          "question_number": 2,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "IgM anti-HAV 양성으로 급성 A형간염으로 진단됩니다. 프로트롬빈시간 정상, 의식 명료하여 전격간부전은 아니며, A형간염은 대부분 자연 회복되므로 경과관찰이 적절합니다."
+        },
+        {
+          "question_number": 3,
+          "chosen_index": "①",
+          "chosen_text": "전격간부전",
+          "reasoning": "황달, 의식변화(상황에 맞지 않는 말), 퍼덕떨림(asterixis)은 전격간부전의 특징적인 소견입니다. 건강보조식품 섭취 후 발생한 급성 간손상으로 추정됩니다."
+        },
+        {
+          "question_number": 13,
+          "chosen_index": "⑤",
+          "chosen_text": "단회뇨 알부민/크레아티닌 비",
+          "reasoning": "당뇨병 환자에서 망막병증(미세동맥류, 면화반점)이 있으므로 당뇨콩팥병 선별을 위해 단회뇨 알부민/크레아티닌 비 검사가 필요합니다. 이는 당뇨콩팥병의 조기 진단에 중요합니다."
+        },
+        {
+          "question_number": 14,
+          "chosen_index": "①",
+          "chosen_text": "막신장병증",
+          "reasoning": "부종, 저알부민혈증(2.2 g/dL), 대량 단백뇨(4,600 mg/g)로 신증후군이며, phospholipase A2 수용체항체 양성(150 RU/mL)은 특발막신장병증의 특징적인 소견입니다."
+        },
+        {
+          "question_number": 15,
+          "chosen_index": "④",
+          "chosen_text": "용혈요독증후군",
+          "reasoning": "혈변을 동반한 설사 후 발생한 급성콩팥손상, 빈혈(8.0 g/dL), 혈소판감소증(35,000/mm³), 분열적혈구, E. coli O157:H7 양성은 용혈요독증후군의 전형적인 소견입니다."
+        },
+        {
+          "question_number": 16,
+          "chosen_index": "④",
+          "chosen_text": "신장도플러초음파",
+          "reasoning": "고혈압 치료 중 갑작스런 혈압 상승, 폐부종, 배꼽 근처 잡음(복부 혈관잡음), 크레아티닌 상승은 신동맥협착을 시사합니다. 신장도플러초음파로 신혈류를 평가해야 합니다."
+        },
+        {
+          "question_number": 18,
+          "chosen_index": "②",
+          "chosen_text": "IgA신장병증",
+          "reasoning": "상기도감염 3일 후 12시간 만에 발생한 육안적 혈뇨(진한 갈색 소변), 단백뇨, C3/C4 정상은 IgA신장병증의 전형적인 소견입니다. 감염과 동시에 혈뇨가 나타나는 것이 특징입니다."
+        },
+        {
+          "question_number": 19,
+          "chosen_index": "①",
+          "chosen_text": "돼지풀",
+          "reasoning": "8월 말부터 10월까지만 증상이 나타나는 계절성 알레르기비염으로, 돼지풀(Class 3)이 원인입니다. 돼지풀은 늦여름-가을에 꽃가루를 날리는 대표적인 잡초입니다. 집먼지진드기는 연중 증상을 유발합니다."
+        },
+        {
+          "question_number": 21,
+          "chosen_index": "⑤",
+          "chosen_text": "면역혈소판감소자반병",
+          "reasoning": "점출혈, 멍, 과다월경과 함께 심한 혈소판감소증(5,000/mm³), 정상 백혈구/혈색소, 정상 응고검사, 간/비장 비대 없음은 면역혈소판감소자반병(ITP)의 전형적인 소견입니다."
+        },
+        {
+          "question_number": 22,
+          "chosen_index": "③",
+          "chosen_text": "신선냉동혈장 수혈",
+          "reasoning": "항응고제 복용 중 코피, 멍과 함께 PT 50초(INR 5.0), aPTT 46초로 과도한 항응고 상태입니다. 출혈이 있으므로 응고인자를 포함한 신선냉동혈장 수혈이 필요합니다."
+        },
+        {
+          "question_number": 23,
+          "chosen_index": "④",
+          "chosen_text": "자가면역용혈빈혈",
+          "reasoning": "빈혈(7.5 g/dL), 황달, 그물적혈구 증가(10%), 낮은 합토글로빈(8.0 mg/dL), 높은 LDH(1,500 U/L), 직접항글로블린검사 강양성(4+), 소변 잠혈 양성(혈색소뇨)은 자가면역용혈빈혈의 전형적인 소견입니다."
+        },
+        {
+          "question_number": 27,
+          "chosen_index": "③",
+          "chosen_text": "감시림프절생검",
+          "reasoning": "1.8 cm 침윤성 유방암으로 광범위 덩이절제술 후 절제연 음성이나, 액와림프절 전이 여부 확인이 필요합니다. 감시림프절생검으로 액와림프절 상태를 평가하여 추가 치료를 결정해야 합니다."
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "⑤",
+          "chosen_text": "노르에피네프린",
+          "reasoning": "패혈쇼크(발열, 저혈압, 빈맥, 백혈구증가) 환자로 수액 소생술 후에도 저혈압이 지속되는 경우, 노르에피네프린이 패혈쇼크의 1차 승압제입니다."
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "임신 12주에 발견된 5 cm 단방성 난소낭종으로, 종양표지자 모두 정상이고 염증 소견 없으며, 임신 중 생리적 황체낭종 가능성이 높습니다. 경과관찰이 적절하며, 대부분 자연 소실됩니다."
+        },
+        {
+          "question_number": 38,
+          "chosen_index": "⑤",
+          "chosen_text": "특발혈소판감소자반병",
+          "reasoning": "5세 남아에서 점출혈, 자반, 혈소판감소증(27,000/mm³), 정상 PT/aPTT, 골수 거대핵세포 증가는 특발혈소판감소자반병(ITP)의 전형적인 소견입니다."
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "①",
+          "chosen_text": "영아연축",
+          "reasoning": "6개월 남아에서 잠들거나 깰 때 발생하는 굴곡성 경련(몸통과 팔다리가 굽혀짐), 군집성 발작(10회 이상 반복), 점두경련의뇌파(hypsarrhythmia)는 영아연축(infantile spasms, West syndrome)의 전형적인 소견입니다."
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "④",
+          "chosen_text": "아편유사제",
+          "reasoning": "유치 2일 후 발생한 구역, 설사, 근육통, 동공 확대, 하품, 고혈압, 빈맥은 아편유사제 금단증상의 전형적인 소견입니다. 절도로 유치되어 약물 접근이 차단되면서 금단이 발생했습니다."
+        },
+        {
+          "question_number": 45,
+          "chosen_index": "④",
+          "chosen_text": "아리피프라졸 경구투여",
+          "reasoning": "섬망(의식변화, 환시, 일중변동) 환자로 QTc 500 msec로 연장되어 있습니다. 할로페리돌, 지프라시돈, 클로르프로마진은 QT 연장 위험이 있어 금기이며, 아리피프라졸은 QT 연장 위험이 낮아 안전합니다."
+        },
+        {
+          "question_number": 46,
+          "chosen_index": "③",
+          "chosen_text": "산소흡입",
+          "reasoning": "한쪽 눈 주위 찌르는 듯한 통증, 동측 결막충혈/코막힘/안검부종, 수주간 매일 발생 후 수개월 관해되는 주기성은 군발두통의 특징입니다. 급성기 치료는 고유량 산소흡입(100% 산소 12-15 L/분)이 가장 효과적입니다."
+        },
+        {
+          "question_number": 47,
+          "chosen_index": "③",
+          "chosen_text": "소뇌경색증(cerebellar infarction)",
+          "reasoning": "급성 발생한 어지럼과 함께 한쪽 운동거리조절이상, 운동실조, 상반운동반복장애는 소뇌 병변을 시사합니다. 고혈압 병력, 급성 발생, CT에서 출혈 없음은 소뇌경색증을 시사합니다."
+        },
+        {
+          "question_number": 49,
+          "chosen_index": "④",
+          "chosen_text": "식사요법",
+          "reasoning": "임신 7주에 당화혈색소 7.3%로 임신 전 당뇨병(pregestational diabetes)으로 진단됩니다. 우선 식사요법을 시작하고, 혈당 조절이 안 되면 인슐린 치료를 고려합니다. 경구혈당강하제는 임신 중 금기입니다."
+        },
+        {
+          "question_number": 51,
+          "chosen_index": "①",
+          "chosen_text": "대뇌동맥류",
+          "reasoning": "PKD1 유전자 변이 양성으로 상염색체우성다낭콩팥병(ADPKD)으로 진단됩니다. ADPKD 환자는 대뇌동맥류 발생 위험이 높아(10-30%) 정기적인 뇌혈관 영상검사로 감시가 필요합니다."
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "③",
+          "chosen_text": "벤자틴페니실린",
+          "reasoning": "VDRL과 TPHA 모두 양성이고 치료력이 없으므로 매독으로 진단됩니다. 외음부 궤양이 없고 건강검진에서 발견되었으므로 잠복매독으로 추정되며, 벤자틴페니실린 근육주사가 표준 치료입니다."
+        },
+        {
+          "question_number": 63,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "척수손상으로 폴리도노관 사용 중인 환자에서 무증상 세균뇨(백혈구뇨, 세균뇨)가 발견되었으나, 발열이나 증상이 없고 CRP 정상입니다. 무증상 세균뇨는 치료하지 않고 경과관찰이 권장됩니다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "④",
+          "chosen_text": "엡스타인-바바이러스 캡시드항원 항체",
+          "reasoning": "발열, 인두통, 편도 비대, 양측 경부 림프절병증, 비정형 림프구 증가(림프구 70%), 간효소 상승은 전염단핵구증(infectious mononucleosis)을 시사합니다. EBV VCA 항체 검사가 진단에 필요합니다."
+        },
+        {
+          "question_number": 65,
+          "chosen_index": "⑤",
+          "chosen_text": "단백질보충제 중단",
+          "reasoning": "단백질보충제 복용 시작 후 발생한 복통과 설사로, 염증 수치 정상(CRP, 칼프로텍틴)이고 기질적 질환 증거가 없습니다. 단백질보충제에 포함된 유당이나 첨가물에 의한 증상 가능성이 높아 중단이 적절합니다."
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "⑤",
+          "chosen_text": "글루코코티코이드",
+          "reasoning": "황달, 간효소 상승, IgG 2,100 mg/dL(정상 700-1,700)로 증가, 항핵항체 양성, 항사립체항체 음성은 자가면역간염을 시사합니다. 글루코코티코이드가 1차 치료입니다."
+        },
+        {
+          "question_number": 71,
+          "chosen_index": "②",
+          "chosen_text": "어머니와 분리",
+          "reasoning": "조현병 어머니의 망상을 환자가 공유하는 공유정신병(folie à deux)입니다. 환자는 학교생활을 정상적으로 하고 있어 자신의 정신병적 증상은 없습니다. 어머니와 분리하면 증상이 소실될 가능성이 높습니다."
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "②",
+          "chosen_text": "메티마졸",
+          "reasoning": "체중감소, 빈맥, 고혈압, 저칼륨혈증(2.8 meq/L), 하지마비와 함께 TSH <0.01, 유리 T4 3.5, T3 280, 항TSH수용체항체 양성은 갑상샘중독주기마비를 동반한 그레이브스병입니다. 메티마졸로 갑상샘기능항진증을 치료해야 합니다."
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "①",
+          "chosen_text": "둘록세틴(duloxetine)",
+          "reasoning": "절박요실금(소변 급함, 급박성 요실금)과 복압요실금(뛰기, 재채기 시 요실금)이 혼합된 혼합요실금입니다. 둘록세틴은 세로토닌-노르에피네프린 재흡수억제제로 복압요실금 치료에 효과적입니다."
+        },
+        {
+          "question_number": 79,
+          "chosen_index": "①",
+          "chosen_text": "저인분유",
+          "reasoning": "생후 6일 신생아에서 떨림, 흥분성 증가, 저칼슘혈증(6.2 mg/dL), 고인혈증(9.8 mg/dL)은 우유 섭취로 인한 신생아 저칼슘혈증을 시사합니다. 일반 우유는 인 함량이 높아 저칼슘혈증을 유발할 수 있으므로 저인분유가 필요합니다."
+        }
+      ]
+    }
+  ]
+}

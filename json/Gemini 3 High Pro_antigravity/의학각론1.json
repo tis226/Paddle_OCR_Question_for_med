@@ -1,0 +1,260 @@
+{
+  "results": [
+    {
+      "subject": "보건의약관계법규",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학총론",
+      "year": null,
+      "answers": []
+    },
+    {
+      "subject": "의학각론1",
+      "year": 2025,
+      "answers": [
+        {
+          "question_number": 2,
+          "chosen_index": "⑤",
+          "chosen_text": "항혈소판제 경구투여",
+          "reasoning": "발병 48시간이 지난 뇌경색 환자로 혈전용해술의 적응증이 되지 않는다. 비심인성 뇌경색의 2차 예방을 위해 항혈소판제 투여가 필요하다. 경동맥 협착이 35%로 경미하여 수술적 치료 대상이 아니다."
+        },
+        {
+          "question_number": 3,
+          "chosen_index": "④",
+          "chosen_text": "싸이아자이드",
+          "reasoning": "혈장 삼투압이 높고 소변 삼투압이 낮으며, ADH 수치가 높음에도 농축이 되지 않는 것으로 보아 신성 요붕증(Nephrogenic DI)이다. 신성 요붕증의 치료에는 Thiazide 이뇨제가 사용된다."
+        },
+        {
+          "question_number": 6,
+          "chosen_index": "③",
+          "chosen_text": "확장심근병증",
+          "reasoning": "호흡곤란, 심장비대, 폐울혈, 수축기 심잡음, 낮은 심박출률(EF 32%), 심실 확장 소견은 확장심근병증(DCMP)의 전형적인 소견이다."
+        },
+        {
+          "question_number": 9,
+          "chosen_index": "④",
+          "chosen_text": "주요우울장애",
+          "reasoning": "1개월간의 우울 기분, 의욕 저하, 불면, 자살 사고 등 주요우울장애 진단 기준을 만족하며, 관계 망상 등 정신병적 증상을 동반하고 있다."
+        },
+        {
+          "question_number": 10,
+          "chosen_index": "⑤",
+          "chosen_text": "클라미디아트라코마티스(Chlamydia trachomatis)",
+          "reasoning": "생후 1주일경(5~14일) 발생한 신생아 결막염의 가장 흔한 원인은 클라미디아이다. 임균은 생후 2~5일로 더 일찍 발생하며 증상이 더 심하다."
+        },
+        {
+          "question_number": 11,
+          "chosen_index": "④",
+          "chosen_text": "원뿔절제",
+          "reasoning": "자궁경부세포검사(Pap)에서 HSIL이 나왔으나 질확대경 조준생검에서 만성자궁경부염으로 불일치하는 결과가 나왔으므로, 병변을 놓쳤을 가능성을 배제하기 위해 진단 및 치료 목적으로 원뿔절제술(Conization)이 필요하다."
+        },
+        {
+          "question_number": 17,
+          "chosen_index": "②",
+          "chosen_text": "소변임신반응검사",
+          "reasoning": "가임기 여성이 하복부 통증과 질출혈, 무월경(7주)을 주소로 내원하였으므로 임신 여부 확인이 최우선이다. 초음파상 임신낭이 보이지 않으므로 임신 반응 검사를 통해 자궁외 임신이나 유산 등을 감별해 나가야 한다."
+        },
+        {
+          "question_number": 24,
+          "chosen_index": "⑤",
+          "chosen_text": "복부 컴퓨터단층촬영",
+          "reasoning": "궤양성 대장염 환자는 요로결석 위험이 높다. 옆구리 통증과 혈뇨는 요로결석을 시사하며, 결석 진단에 가장 정확한 검사는 복부 CT이다."
+        },
+        {
+          "question_number": 25,
+          "chosen_index": "⑤",
+          "chosen_text": "하루 6g 미만 소금 섭취제한",
+          "reasoning": "환자는 국물이 있거나 간이 강한 음식을 선호하는 식습관을 가지고 있다. 고혈압 조절을 위해 염분 섭취 제한(하루 6g 미만)이 우선적으로 권고된다."
+        },
+        {
+          "question_number": 26,
+          "chosen_index": "④",
+          "chosen_text": "췌장꼬리절제",
+          "reasoning": "저혈당 증상, 낮은 혈당, 포도당 투여 후 호전(Whipple's triad) 및 췌장 꼬리의 종괴는 인슐린종을 시사한다. 췌장 꼬리에 위치하므로 원위부 췌장절제술(Distal pancreatectomy)이 적절하다."
+        },
+        {
+          "question_number": 28,
+          "chosen_index": "⑤",
+          "chosen_text": "0.9% 식염수 빠르게 정맥주사",
+          "reasoning": "에피네프린 투여에도 반응하지 않는 저혈압(아나필락시스 쇼크)에서는 혈관 투과성 증가로 인한 혈장 유출을 보정하기 위해 신속한 수액 공급이 필수적이다."
+        },
+        {
+          "question_number": 30,
+          "chosen_index": "②",
+          "chosen_text": "안압측정",
+          "reasoning": "두통, 구토, 안구 통증, 시력 저하, 결막 충혈, 동공 산대 및 고정은 급성 폐쇄각 녹내장의 전형적인 증상이다. 안압 측정이 진단에 필수적이다."
+        },
+        {
+          "question_number": 32,
+          "chosen_index": "②",
+          "chosen_text": "클로니딘",
+          "reasoning": "ADHD와 틱 장애(뚜렛 장애)가 동반된 경우이다. 중추신경자극제는 틱을 악화시킬 수 있으므로, 두 질환 모두에 효과적인 Alpha-2 작용제인 클로니딘(Clonidine)이 적절한 치료제이다."
+        },
+        {
+          "question_number": 33,
+          "chosen_index": "④",
+          "chosen_text": "전기경련요법",
+          "reasoning": "식사 거부로 인한 심한 체중 감소와 긴장증(Catatonia) 증상을 보이는 우울증 환자이다. 생명이 위급한 상황이므로 신속한 효과를 볼 수 있는 전기경련요법(ECT)이 우선 고려된다."
+        },
+        {
+          "question_number": 34,
+          "chosen_index": "④",
+          "chosen_text": "라모트리진",
+          "reasoning": "반복되는 우울 삽화와 경조증 삽화(1주일 지속, 입원 불필요)가 있으므로 제2형 양극성 장애이다. 양극성 우울증의 치료 및 유지요법으로 라모트리진이 효과적이다."
+        },
+        {
+          "question_number": 35,
+          "chosen_index": "①",
+          "chosen_text": "순환성장애",
+          "reasoning": "2년 이상(환자는 3년) 경미한 우울 증상과 경조증 증상이 번갈아 나타나며, 증상이 없는 기간이 2개월을 넘지 않으므로 순환성 장애(Cyclothymic disorder)에 해당한다."
+        },
+        {
+          "question_number": 36,
+          "chosen_index": "⑤",
+          "chosen_text": "플루옥세틴",
+          "reasoning": "강박 사고와 강박 행동을 주소로 하는 강박 장애(OCD)이다. 치료의 1차 선택 약물은 고용량의 SSRI(플루옥세틴 등)이다."
+        },
+        {
+          "question_number": 40,
+          "chosen_index": "①",
+          "chosen_text": "난소꼬임",
+          "reasoning": "갑작스러운 하복부 통증과 초음파상 난소 낭종, 도플러상 혈류 감소 소견은 난소 꼬임(Ovarian torsion)의 특징적인 소견이다."
+        },
+        {
+          "question_number": 41,
+          "chosen_index": "③",
+          "chosen_text": "메토트렉세이트",
+          "reasoning": "혈중 hCG가 3,900으로 자궁 내 임신낭이 보여야 할 수치임에도 보이지 않으므로 자궁외 임신이다. 환자가 혈역학적으로 안정적이고 hCG가 5,000 미만이므로 약물 치료(MTX)의 적응증이 된다."
+        },
+        {
+          "question_number": 43,
+          "chosen_index": "④",
+          "chosen_text": "리스페리돈",
+          "reasoning": "치매 환자에서 망상(도둑 망상)과 공격성 등 정신행동증상(BPSD)이 심하여 환자나 타인에게 위협이 될 때는 소량의 비정형 항정신병약물(리스페리돈 등)을 사용할 수 있다."
+        },
+        {
+          "question_number": 44,
+          "chosen_index": "④",
+          "chosen_text": "인지행동치료",
+          "reasoning": "특정 상황(발표)에서의 사회불안장애이다. 장기적인 치료 효과와 근본적인 개선을 위해 인지행동치료가 우선적으로 권고된다."
+        },
+        {
+          "question_number": 48,
+          "chosen_index": "③",
+          "chosen_text": "셀레콕시브",
+          "reasoning": "천식, 비용종, 아스피린/NSAID 과민성을 보이는 아스피린 악화 호흡기 질환(AERD)이다. COX-1 억제가 증상을 유발하므로 선택적 COX-2 억제제인 셀레콕시브는 안전하게 사용할 수 있다."
+        },
+        {
+          "question_number": 50,
+          "chosen_index": "④",
+          "chosen_text": "척추동맥",
+          "reasoning": "어지럼, 동측 얼굴 감각 저하 및 Horner 증후군, 반대측 팔다리 감각 저하는 연수 외측 증후군(Wallenberg syndrome)의 소견이다. 이는 주로 척추동맥(Vertebral artery) 또는 후하소뇌동맥(PICA)의 폐색으로 발생한다."
+        },
+        {
+          "question_number": 51,
+          "chosen_index": "①",
+          "chosen_text": "아목시실린-클라볼라네이트",
+          "reasoning": "개물림 교상은 감염 위험이 높으므로 예방적 항생제가 필요하며, Amoxicillin-Clavulanate가 1차 선택제이다. 파상풍은 5년 이내 접종력이 있어 불필요하며, 개가 백신을 맞았으므로 광견병 조치는 관찰로 충분하다."
+        },
+        {
+          "question_number": 53,
+          "chosen_index": "③",
+          "chosen_text": "쌍둥이 수혈증후군",
+          "reasoning": "단일 융모막 쌍둥이에서 한쪽 태아는 양수과소증과 방광 미관찰(공혈자), 다른 쪽은 양수과다증과 방광 확장(수혈자)을 보이므로 쌍둥이간 수혈 증후군(TTTS)이다."
+        },
+        {
+          "question_number": 56,
+          "chosen_index": "⑤",
+          "chosen_text": "환경온도 낮추기",
+          "reasoning": "신생아가 더운 환경에 과도하게 싸여 있어 체온이 상승한 탈수열(Dehydration fever) 또는 환경적 고체온이다. 아기가 활발하고 건강해 보이므로 환경 온도를 낮추고 수분을 공급하는 것이 적절하다."
+        },
+        {
+          "question_number": 57,
+          "chosen_index": "①",
+          "chosen_text": "경과관찰",
+          "reasoning": "B형간염 산모의 수직감염 예방을 위한 항바이러스제 투여는 HBV DNA가 200,000 IU/mL 이상일 때 권고된다. 환자는 8,030 IU/mL로 기준에 미치지 않으므로 경과 관찰한다."
+        },
+        {
+          "question_number": 59,
+          "chosen_index": "①",
+          "chosen_text": "인슐린",
+          "reasoning": "심한 고혈당, 체중 감소, 케톤뇨 양성, 낮은 C-peptide 수치는 인슐린 결핍 상태를 시사한다. 즉각적인 인슐린 치료가 필요하다."
+        },
+        {
+          "question_number": 64,
+          "chosen_index": "①",
+          "chosen_text": "전해질 검사",
+          "reasoning": "조현병 환자의 다음증(Polydipsia)으로 인한 물 중독과 저나트륨혈증이 의심된다. 경련과 의식 변화의 원인을 확인하고 교정하기 위해 전해질(Na) 검사가 가장 시급하다."
+        },
+        {
+          "question_number": 66,
+          "chosen_index": "⑤",
+          "chosen_text": "항바이러스제경구투여",
+          "reasoning": "HIV 양성 환자의 혈액에 오염된 주사침에 찔렸으므로 고위험 노출이다. 감염 예방을 위해 가능한 한 빨리(24시간 이내) 예방적 항바이러스제 투여를 시작해야 한다."
+        },
+        {
+          "question_number": 67,
+          "chosen_index": "④",
+          "chosen_text": "고압산소요법",
+          "reasoning": "일산화탄소 중독 환자에서 의식 소실(혼미)이 있거나 CO-Hb가 25% 이상인 경우 고압산소치료의 적응증이 된다."
+        },
+        {
+          "question_number": 68,
+          "chosen_index": "⑤",
+          "chosen_text": "일과성전체기억상실",
+          "reasoning": "갑작스러운 선행성 기억상실과 반복적인 질문, 자아 정체성 유지, 24시간 이내 회복, MRI상 해마의 점상 병변은 일과성 전체 기억상실(TGA)의 특징이다."
+        },
+        {
+          "question_number": 72,
+          "chosen_index": "③",
+          "chosen_text": "반응관절염",
+          "reasoning": "장염(선행 감염) 후 발생한 관절염, HLA-B27 양성 소견은 반응성 관절염(Reactive arthritis)을 시사한다."
+        },
+        {
+          "question_number": 74,
+          "chosen_index": "⑤",
+          "chosen_text": "다이펜하이드라민 경구투여",
+          "reasoning": "난청, 이명, 이충만감을 동반한 회전성 어지럼은 메니에르병의 증상이다. 급성기 어지럼 완화를 위해 전정 억제제(항히스타민제 등)를 사용한다."
+        },
+        {
+          "question_number": 76,
+          "chosen_index": "④",
+          "chosen_text": "24시간 소변 단백질",
+          "reasoning": "단백뇨가 발견되었을 때 정량적 평가를 위해 24시간 소변 단백 정량 검사 또는 단회 소변 단백/크레아티닌 비 검사를 시행해야 한다."
+        },
+        {
+          "question_number": 77,
+          "chosen_index": "②",
+          "chosen_text": "테스토스테론",
+          "reasoning": "고나도트로핀(LH, FSH)과 테스토스테론이 모두 낮은 저성선자극호르몬성 성선기능저하증이다. 2차 성징 발달을 유도하기 위해 테스토스테론 투여가 필요하다."
+        },
+        {
+          "question_number": 78,
+          "chosen_index": "②",
+          "chosen_text": "젖당불내성",
+          "reasoning": "장염 앓은 후 지속되는 설사, 항문 주위 발적(산성변)은 장점막 손상으로 인한 일시적인 젖당불내성을 시사한다."
+        },
+        {
+          "question_number": 12,
+          "chosen_index": "⑤",
+          "chosen_text": "편집성성격장애",
+          "reasoning": "타인의 의도를 불신하고 의심하며, 배우자의 정조를 의심하고, 정보 제공을 꺼리는 등의 특징은 편집성 성격장애의 진단 기준에 부합한다."
+        }
+      ]
+    },
+    {
+      "subject": "의학각론2",
+      "year": 2025,
+      "answers": [
+        
+      ]
+    },
+    {
+      "subject": "의학각론3",
+      "year": null,
+      "answers": []
+    }
+  ]
+}
